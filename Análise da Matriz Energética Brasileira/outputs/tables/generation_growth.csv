@@ -1,0 +1,6 @@
+fonte,primeiro_ano,geracao_inicial_gwh,ultimo_ano,geracao_final_gwh,crescimento_absoluto_gwh,anos,crescimento_percentual,cagr_percentual
+Solar fotovoltaica,2012,1.62,2025,88140.52,88138.9,13,5457125.06,131.41
+Eólica,2011,2704.5,2025,116488.27,113783.77,14,4207.2,30.84
+Nuclear,2011,15659.38,2025,15834.12,174.74,14,1.12,0.08
+Hidráulica,2011,428332.92,2025,401415.45,-26917.47,14,-6.28,-0.46
+Térmica,2013,164681.94,2025,154017.56,-10664.38,12,-6.48,-0.56

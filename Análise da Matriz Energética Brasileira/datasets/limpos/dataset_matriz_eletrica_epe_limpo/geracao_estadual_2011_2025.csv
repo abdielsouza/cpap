@@ -1,0 +1,1972 @@
+ano,regiao,estado,fonte,geracao_gwh,renovavel
+2011,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2011,CENTRO OESTE,Distrito Federal,Hidráulica,118.664538,True
+2011,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2011,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,0.0,True
+2011,CENTRO OESTE,Goiás,Eólica,0.0,True
+2011,CENTRO OESTE,Goiás,Hidráulica,29443.381058,True
+2011,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2011,CENTRO OESTE,Goiás,Solar fotovoltaica,0.0,True
+2011,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2011,CENTRO OESTE,Mato Grosso,Hidráulica,6864.269215,True
+2011,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2011,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,0.0,True
+2011,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2011,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,20355.006521,True
+2011,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2011,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Alagoas,Eólica,0.0,True
+2011,NORDESTE,Alagoas,Hidráulica,17933.516073,True
+2011,NORDESTE,Alagoas,Nuclear,0.0,False
+2011,NORDESTE,Alagoas,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Bahia,Eólica,0.0,True
+2011,NORDESTE,Bahia,Hidráulica,18342.934024,True
+2011,NORDESTE,Bahia,Nuclear,0.0,False
+2011,NORDESTE,Bahia,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Ceará,Eólica,1309.638477,True
+2011,NORDESTE,Ceará,Hidráulica,2.032441,True
+2011,NORDESTE,Ceará,Nuclear,0.0,False
+2011,NORDESTE,Ceará,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Maranhão,Eólica,0.0,True
+2011,NORDESTE,Maranhão,Hidráulica,1505.29788,True
+2011,NORDESTE,Maranhão,Nuclear,0.0,False
+2011,NORDESTE,Maranhão,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Paraíba,Eólica,140.00451,True
+2011,NORDESTE,Paraíba,Hidráulica,13.548622,True
+2011,NORDESTE,Paraíba,Nuclear,0.0,False
+2011,NORDESTE,Paraíba,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Pernambuco,Eólica,66.675276,True
+2011,NORDESTE,Pernambuco,Hidráulica,3904.052761,True
+2011,NORDESTE,Pernambuco,Nuclear,0.0,False
+2011,NORDESTE,Pernambuco,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Piauí,Eólica,48.877048,True
+2011,NORDESTE,Piauí,Hidráulica,663.3072,True
+2011,NORDESTE,Piauí,Nuclear,0.0,False
+2011,NORDESTE,Piauí,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Rio Grande do Norte,Eólica,333.802962,True
+2011,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2011,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2011,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,0.0,True
+2011,NORDESTE,Sergipe,Eólica,0.0,True
+2011,NORDESTE,Sergipe,Hidráulica,9509.5494,True
+2011,NORDESTE,Sergipe,Nuclear,0.0,False
+2011,NORDESTE,Sergipe,Solar fotovoltaica,0.0,True
+2011,NORTE,Acre,Eólica,0.0,True
+2011,NORTE,Acre,Hidráulica,0.0,True
+2011,NORTE,Acre,Nuclear,0.0,False
+2011,NORTE,Acre,Solar fotovoltaica,0.0,True
+2011,NORTE,Amapá,Eólica,0.0,True
+2011,NORTE,Amapá,Hidráulica,557.8,True
+2011,NORTE,Amapá,Nuclear,0.0,False
+2011,NORTE,Amapá,Solar fotovoltaica,0.0,True
+2011,NORTE,Amazonas,Eólica,0.0,True
+2011,NORTE,Amazonas,Hidráulica,1487.752901,True
+2011,NORTE,Amazonas,Nuclear,0.0,False
+2011,NORTE,Amazonas,Solar fotovoltaica,0.0,True
+2011,NORTE,Pará,Eólica,0.0,True
+2011,NORTE,Pará,Hidráulica,41444.04673,True
+2011,NORTE,Pará,Nuclear,0.0,False
+2011,NORTE,Pará,Solar fotovoltaica,0.0,True
+2011,NORTE,Rondônia,Eólica,0.0,True
+2011,NORTE,Rondônia,Hidráulica,895.401677,True
+2011,NORTE,Rondônia,Nuclear,0.0,False
+2011,NORTE,Rondônia,Solar fotovoltaica,0.0,True
+2011,NORTE,Roraima,Eólica,0.0,True
+2011,NORTE,Roraima,Hidráulica,19.1,True
+2011,NORTE,Roraima,Nuclear,0.0,False
+2011,NORTE,Roraima,Solar fotovoltaica,0.0,True
+2011,NORTE,Tocantins,Eólica,0.0,True
+2011,NORTE,Tocantins,Hidráulica,10641.85202,True
+2011,NORTE,Tocantins,Nuclear,0.0,False
+2011,NORTE,Tocantins,Solar fotovoltaica,0.0,True
+2011,SUDESTE,Espírito Santo,Eólica,0.0,True
+2011,SUDESTE,Espírito Santo,Hidráulica,2183.832388,True
+2011,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2011,SUDESTE,Espírito Santo,Solar fotovoltaica,0.0,True
+2011,SUDESTE,Minas Gerais,Eólica,0.0,True
+2011,SUDESTE,Minas Gerais,Hidráulica,58451.666377,True
+2011,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2011,SUDESTE,Minas Gerais,Solar fotovoltaica,0.0,True
+2011,SUDESTE,Rio de Janeiro,Eólica,65.27016,True
+2011,SUDESTE,Rio de Janeiro,Hidráulica,6893.109711,True
+2011,SUDESTE,Rio de Janeiro,Nuclear,15659.376,False
+2011,SUDESTE,Rio de Janeiro,Solar fotovoltaica,0.0,True
+2011,SUDESTE,São Paulo,Eólica,0.0,True
+2011,SUDESTE,São Paulo,Hidráulica,54152.222072,True
+2011,SUDESTE,São Paulo,Nuclear,0.0,False
+2011,SUDESTE,São Paulo,Solar fotovoltaica,0.0,True
+2011,SUL,Paraná,Eólica,24.343526,True
+2011,SUL,Paraná,Hidráulica,96673.514598,True
+2011,SUL,Paraná,Nuclear,0.0,False
+2011,SUL,Paraná,Solar fotovoltaica,0.0,True
+2011,SUL,Rio Grande do Sul,Eólica,698.769982,True
+2011,SUL,Rio Grande do Sul,Hidráulica,23773.480101,True
+2011,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2011,SUL,Rio Grande do Sul,Solar fotovoltaica,0.0,True
+2011,SUL,Santa Catarina,Eólica,17.118059,True
+2011,SUL,Santa Catarina,Hidráulica,22503.581563,True
+2011,SUL,Santa Catarina,Nuclear,0.0,False
+2011,SUL,Santa Catarina,Solar fotovoltaica,0.0,True
+2012,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2012,CENTRO OESTE,Distrito Federal,Hidráulica,128.128651,True
+2012,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2012,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,0.0,True
+2012,CENTRO OESTE,Goiás,Eólica,0.0,True
+2012,CENTRO OESTE,Goiás,Hidráulica,34211.947168,True
+2012,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2012,CENTRO OESTE,Goiás,Solar fotovoltaica,0.0,True
+2012,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2012,CENTRO OESTE,Mato Grosso,Hidráulica,8746.616544,True
+2012,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2012,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,0.0,True
+2012,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2012,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,21207.46932,True
+2012,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2012,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Alagoas,Eólica,0.0,True
+2012,NORDESTE,Alagoas,Hidráulica,18594.432932,True
+2012,NORDESTE,Alagoas,Nuclear,0.0,False
+2012,NORDESTE,Alagoas,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Bahia,Eólica,162.773117,True
+2012,NORDESTE,Bahia,Hidráulica,18532.214537,True
+2012,NORDESTE,Bahia,Nuclear,0.0,False
+2012,NORDESTE,Bahia,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Ceará,Eólica,1974.620825,True
+2012,NORDESTE,Ceará,Hidráulica,2.03927,True
+2012,NORDESTE,Ceará,Nuclear,0.0,False
+2012,NORDESTE,Ceará,Solar fotovoltaica,1.614368,True
+2012,NORDESTE,Maranhão,Eólica,0.0,True
+2012,NORDESTE,Maranhão,Hidráulica,2669.2908,True
+2012,NORDESTE,Maranhão,Nuclear,0.0,False
+2012,NORDESTE,Maranhão,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Paraíba,Eólica,167.014279,True
+2012,NORDESTE,Paraíba,Hidráulica,9.636013,True
+2012,NORDESTE,Paraíba,Nuclear,0.0,False
+2012,NORDESTE,Paraíba,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Pernambuco,Eólica,68.378784,True
+2012,NORDESTE,Pernambuco,Hidráulica,4045.490951,True
+2012,NORDESTE,Pernambuco,Nuclear,0.0,False
+2012,NORDESTE,Pernambuco,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Piauí,Eólica,71.263983,True
+2012,NORDESTE,Piauí,Hidráulica,572.12784,True
+2012,NORDESTE,Piauí,Nuclear,0.0,False
+2012,NORDESTE,Piauí,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Rio Grande do Norte,Eólica,980.380877,True
+2012,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2012,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2012,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,0.0,True
+2012,NORDESTE,Sergipe,Eólica,23.992843,True
+2012,NORDESTE,Sergipe,Hidráulica,9831.29664,True
+2012,NORDESTE,Sergipe,Nuclear,0.0,False
+2012,NORDESTE,Sergipe,Solar fotovoltaica,0.0,True
+2012,NORTE,Acre,Eólica,0.0,True
+2012,NORTE,Acre,Hidráulica,0.0,True
+2012,NORTE,Acre,Nuclear,0.0,False
+2012,NORTE,Acre,Solar fotovoltaica,0.0,True
+2012,NORTE,Amapá,Eólica,0.0,True
+2012,NORTE,Amapá,Hidráulica,395.6,True
+2012,NORTE,Amapá,Nuclear,0.0,False
+2012,NORTE,Amapá,Solar fotovoltaica,0.0,True
+2012,NORTE,Amazonas,Eólica,0.0,True
+2012,NORTE,Amazonas,Hidráulica,1259.969415,True
+2012,NORTE,Amazonas,Nuclear,0.0,False
+2012,NORTE,Amazonas,Solar fotovoltaica,0.0,True
+2012,NORTE,Pará,Eólica,0.0,True
+2012,NORTE,Pará,Hidráulica,39600.655431,True
+2012,NORTE,Pará,Nuclear,0.0,False
+2012,NORTE,Pará,Solar fotovoltaica,0.0,True
+2012,NORTE,Rondônia,Eólica,0.0,True
+2012,NORTE,Rondônia,Hidráulica,2474.406853,True
+2012,NORTE,Rondônia,Nuclear,0.0,False
+2012,NORTE,Rondônia,Solar fotovoltaica,0.0,True
+2012,NORTE,Roraima,Eólica,0.0,True
+2012,NORTE,Roraima,Hidráulica,20.4,True
+2012,NORTE,Roraima,Nuclear,0.0,False
+2012,NORTE,Roraima,Solar fotovoltaica,0.0,True
+2012,NORTE,Tocantins,Eólica,0.0,True
+2012,NORTE,Tocantins,Hidráulica,12740.320533,True
+2012,NORTE,Tocantins,Nuclear,0.0,False
+2012,NORTE,Tocantins,Solar fotovoltaica,0.0,True
+2012,SUDESTE,Espírito Santo,Eólica,0.0,True
+2012,SUDESTE,Espírito Santo,Hidráulica,2058.453678,True
+2012,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2012,SUDESTE,Espírito Santo,Solar fotovoltaica,0.0,True
+2012,SUDESTE,Minas Gerais,Eólica,0.0,True
+2012,SUDESTE,Minas Gerais,Hidráulica,64716.316868,True
+2012,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2012,SUDESTE,Minas Gerais,Solar fotovoltaica,0.0,True
+2012,SUDESTE,Rio de Janeiro,Eólica,68.730985,True
+2012,SUDESTE,Rio de Janeiro,Hidráulica,6834.774856,True
+2012,SUDESTE,Rio de Janeiro,Nuclear,16038.4,False
+2012,SUDESTE,Rio de Janeiro,Solar fotovoltaica,0.0,True
+2012,SUDESTE,São Paulo,Eólica,0.0,True
+2012,SUDESTE,São Paulo,Hidráulica,55721.658277,True
+2012,SUDESTE,São Paulo,Nuclear,0.0,False
+2012,SUDESTE,São Paulo,Solar fotovoltaica,0.000748,True
+2012,SUL,Paraná,Eólica,22.785377,True
+2012,SUL,Paraná,Hidráulica,87911.671182,True
+2012,SUL,Paraná,Nuclear,0.0,False
+2012,SUL,Paraná,Solar fotovoltaica,0.0,True
+2012,SUL,Rio Grande do Sul,Eólica,1034.568196,True
+2012,SUL,Rio Grande do Sul,Hidráulica,11933.928643,True
+2012,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2012,SUL,Rio Grande do Sul,Solar fotovoltaica,0.0,True
+2012,SUL,Santa Catarina,Eólica,475.537109,True
+2012,SUL,Santa Catarina,Hidráulica,11123.329056,True
+2012,SUL,Santa Catarina,Nuclear,0.0,False
+2012,SUL,Santa Catarina,Solar fotovoltaica,0.0,True
+2013,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2013,CENTRO OESTE,Distrito Federal,Hidráulica,126.050817,True
+2013,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2013,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,0.033069,True
+2013,CENTRO OESTE,Distrito Federal,Térmica,3.139531,False
+2013,CENTRO OESTE,Goiás,Eólica,0.0,True
+2013,CENTRO OESTE,Goiás,Hidráulica,27075.61485,True
+2013,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2013,CENTRO OESTE,Goiás,Solar fotovoltaica,0.0,True
+2013,CENTRO OESTE,Goiás,Térmica,4138.380696,False
+2013,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2013,CENTRO OESTE,Mato Grosso,Hidráulica,9610.117978,True
+2013,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2013,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,0.0,True
+2013,CENTRO OESTE,Mato Grosso,Térmica,2754.8446289999997,False
+2013,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2013,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,19056.095428,True
+2013,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2013,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,0.020079,True
+2013,CENTRO OESTE,Mato Grosso do Sul,Térmica,6224.456692,False
+2013,NORDESTE,Alagoas,Eólica,0.0,True
+2013,NORDESTE,Alagoas,Hidráulica,12216.556667,True
+2013,NORDESTE,Alagoas,Nuclear,0.0,False
+2013,NORDESTE,Alagoas,Solar fotovoltaica,0.0,True
+2013,NORDESTE,Alagoas,Térmica,812.5538659999999,False
+2013,NORDESTE,Bahia,Eólica,775.343773,True
+2013,NORDESTE,Bahia,Hidráulica,12031.134641,True
+2013,NORDESTE,Bahia,Nuclear,0.0,False
+2013,NORDESTE,Bahia,Solar fotovoltaica,1.659072,True
+2013,NORDESTE,Bahia,Térmica,10112.813025,False
+2013,NORDESTE,Ceará,Eólica,2348.609002,True
+2013,NORDESTE,Ceará,Hidráulica,4.978746,True
+2013,NORDESTE,Ceará,Nuclear,0.0,False
+2013,NORDESTE,Ceará,Solar fotovoltaica,1.396054,True
+2013,NORDESTE,Ceará,Térmica,8043.208442,False
+2013,NORDESTE,Maranhão,Eólica,0.0,True
+2013,NORDESTE,Maranhão,Hidráulica,3078.23952,True
+2013,NORDESTE,Maranhão,Nuclear,0.0,False
+2013,NORDESTE,Maranhão,Solar fotovoltaica,0.013929,True
+2013,NORDESTE,Maranhão,Térmica,8091.322168,False
+2013,NORDESTE,Paraíba,Eólica,146.200586,True
+2013,NORDESTE,Paraíba,Hidráulica,7.743922,True
+2013,NORDESTE,Paraíba,Nuclear,0.0,False
+2013,NORDESTE,Paraíba,Solar fotovoltaica,0.0,True
+2013,NORDESTE,Paraíba,Térmica,1680.118698,False
+2013,NORDESTE,Pernambuco,Eólica,66.247827,True
+2013,NORDESTE,Pernambuco,Hidráulica,2542.287825,True
+2013,NORDESTE,Pernambuco,Nuclear,0.0,False
+2013,NORDESTE,Pernambuco,Solar fotovoltaica,0.002302,True
+2013,NORDESTE,Pernambuco,Térmica,7099.041146,False
+2013,NORDESTE,Piauí,Eólica,63.482523,True
+2013,NORDESTE,Piauí,Hidráulica,529.48728,True
+2013,NORDESTE,Piauí,Nuclear,0.0,False
+2013,NORDESTE,Piauí,Solar fotovoltaica,0.0,True
+2013,NORDESTE,Piauí,Térmica,138.336206,False
+2013,NORDESTE,Rio Grande do Norte,Eólica,1261.903691,True
+2013,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2013,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2013,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,0.0,True
+2013,NORDESTE,Rio Grande do Norte,Térmica,2528.9037829999997,False
+2013,NORDESTE,Sergipe,Eólica,73.474387,True
+2013,NORDESTE,Sergipe,Hidráulica,6470.902128,True
+2013,NORDESTE,Sergipe,Nuclear,0.0,False
+2013,NORDESTE,Sergipe,Solar fotovoltaica,0.0,True
+2013,NORDESTE,Sergipe,Térmica,215.890666,False
+2013,NORTE,Acre,Eólica,0.0,True
+2013,NORTE,Acre,Hidráulica,0.0,True
+2013,NORTE,Acre,Nuclear,0.0,False
+2013,NORTE,Acre,Solar fotovoltaica,0.0,True
+2013,NORTE,Acre,Térmica,234.473965,False
+2013,NORTE,Amapá,Eólica,0.0,True
+2013,NORTE,Amapá,Hidráulica,395.557473,True
+2013,NORTE,Amapá,Nuclear,0.0,False
+2013,NORTE,Amapá,Solar fotovoltaica,0.0,True
+2013,NORTE,Amapá,Térmica,1224.574058,False
+2013,NORTE,Amazonas,Eólica,0.0,True
+2013,NORTE,Amazonas,Hidráulica,1299.191241,True
+2013,NORTE,Amazonas,Nuclear,0.0,False
+2013,NORTE,Amazonas,Solar fotovoltaica,0.0,True
+2013,NORTE,Amazonas,Térmica,8677.084526999999,False
+2013,NORTE,Pará,Eólica,0.0,True
+2013,NORTE,Pará,Hidráulica,39533.389114,True
+2013,NORTE,Pará,Nuclear,0.0,False
+2013,NORTE,Pará,Solar fotovoltaica,0.0,True
+2013,NORTE,Pará,Térmica,1654.7799280000002,False
+2013,NORTE,Rondônia,Eólica,0.0,True
+2013,NORTE,Rondônia,Hidráulica,5165.508781,True
+2013,NORTE,Rondônia,Nuclear,0.0,False
+2013,NORTE,Rondônia,Solar fotovoltaica,0.013545,True
+2013,NORTE,Rondônia,Térmica,1245.084784,False
+2013,NORTE,Roraima,Eólica,0.0,True
+2013,NORTE,Roraima,Hidráulica,20.353278,True
+2013,NORTE,Roraima,Nuclear,0.0,False
+2013,NORTE,Roraima,Solar fotovoltaica,0.0,True
+2013,NORTE,Roraima,Térmica,150.976823,False
+2013,NORTE,Tocantins,Eólica,0.0,True
+2013,NORTE,Tocantins,Hidráulica,11612.984531,True
+2013,NORTE,Tocantins,Nuclear,0.0,False
+2013,NORTE,Tocantins,Solar fotovoltaica,0.0,True
+2013,NORTE,Tocantins,Térmica,267.699393,False
+2013,SUDESTE,Espírito Santo,Eólica,0.0,True
+2013,SUDESTE,Espírito Santo,Hidráulica,2099.333246,True
+2013,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2013,SUDESTE,Espírito Santo,Solar fotovoltaica,0.0,True
+2013,SUDESTE,Espírito Santo,Térmica,6924.3491269999995,False
+2013,SUDESTE,Minas Gerais,Eólica,0.200884,True
+2013,SUDESTE,Minas Gerais,Hidráulica,46062.472469,True
+2013,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2013,SUDESTE,Minas Gerais,Solar fotovoltaica,0.068784,True
+2013,SUDESTE,Minas Gerais,Térmica,7951.803908,False
+2013,SUDESTE,Rio de Janeiro,Eólica,64.153696,True
+2013,SUDESTE,Rio de Janeiro,Hidráulica,6868.564405,True
+2013,SUDESTE,Rio de Janeiro,Nuclear,15449.69,False
+2013,SUDESTE,Rio de Janeiro,Solar fotovoltaica,0.019352,True
+2013,SUDESTE,Rio de Janeiro,Térmica,39120.699238,False
+2013,SUDESTE,São Paulo,Eólica,0.003219,True
+2013,SUDESTE,São Paulo,Hidráulica,47676.750896,True
+2013,SUDESTE,São Paulo,Nuclear,0.0,False
+2013,SUDESTE,São Paulo,Solar fotovoltaica,1.565979,True
+2013,SUDESTE,São Paulo,Térmica,27913.489576999997,False
+2013,SUL,Paraná,Eólica,22.872011,True
+2013,SUL,Paraná,Hidráulica,98146.360288,True
+2013,SUL,Paraná,Nuclear,0.0,False
+2013,SUL,Paraná,Solar fotovoltaica,0.000304,True
+2013,SUL,Paraná,Térmica,5279.9065630000005,False
+2013,SUL,Rio Grande do Sul,Eólica,1264.820066,True
+2013,SUL,Rio Grande do Sul,Hidráulica,20448.466248,True
+2013,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2013,SUL,Rio Grande do Sul,Solar fotovoltaica,0.0,True
+2013,SUL,Rio Grande do Sul,Térmica,5596.939834,False
+2013,SUL,Santa Catarina,Eólica,491.098182,True
+2013,SUL,Santa Catarina,Hidráulica,18571.04003,True
+2013,SUL,Santa Catarina,Nuclear,0.0,False
+2013,SUL,Santa Catarina,Solar fotovoltaica,0.001124,True
+2013,SUL,Santa Catarina,Térmica,6597.067879,False
+2014,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2014,CENTRO OESTE,Distrito Federal,Hidráulica,123.720031,True
+2014,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2014,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,0.073956,True
+2014,CENTRO OESTE,Distrito Federal,Térmica,3.259071,False
+2014,CENTRO OESTE,Goiás,Eólica,0.0,True
+2014,CENTRO OESTE,Goiás,Hidráulica,25787.846357,True
+2014,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2014,CENTRO OESTE,Goiás,Solar fotovoltaica,0.004444,True
+2014,CENTRO OESTE,Goiás,Térmica,5327.666451,False
+2014,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2014,CENTRO OESTE,Mato Grosso,Hidráulica,10318.384909,True
+2014,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2014,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,0.007619,True
+2014,CENTRO OESTE,Mato Grosso,Térmica,3942.5329680000004,False
+2014,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2014,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,15990.658163,True
+2014,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2014,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,0.087897,True
+2014,CENTRO OESTE,Mato Grosso do Sul,Térmica,8353.026349000002,False
+2014,NORDESTE,Alagoas,Eólica,0.0,True
+2014,NORDESTE,Alagoas,Hidráulica,10455.619289,True
+2014,NORDESTE,Alagoas,Nuclear,0.0,False
+2014,NORDESTE,Alagoas,Solar fotovoltaica,0.0,True
+2014,NORDESTE,Alagoas,Térmica,919.79345,False
+2014,NORDESTE,Bahia,Eólica,1880.800041,True
+2014,NORDESTE,Bahia,Hidráulica,10905.647883,True
+2014,NORDESTE,Bahia,Nuclear,0.0,False
+2014,NORDESTE,Bahia,Solar fotovoltaica,3.057868,True
+2014,NORDESTE,Bahia,Térmica,10370.617879,False
+2014,NORDESTE,Ceará,Eólica,3787.533782,True
+2014,NORDESTE,Ceará,Hidráulica,8.242563,True
+2014,NORDESTE,Ceará,Nuclear,0.0,False
+2014,NORDESTE,Ceará,Solar fotovoltaica,4.006012,True
+2014,NORDESTE,Ceará,Térmica,12160.516705,False
+2014,NORDESTE,Maranhão,Eólica,0.061295,True
+2014,NORDESTE,Maranhão,Hidráulica,3251.631704,True
+2014,NORDESTE,Maranhão,Nuclear,0.0,False
+2014,NORDESTE,Maranhão,Solar fotovoltaica,0.051052,True
+2014,NORDESTE,Maranhão,Térmica,12719.893436999999,False
+2014,NORDESTE,Paraíba,Eólica,164.325757,True
+2014,NORDESTE,Paraíba,Hidráulica,3.728943,True
+2014,NORDESTE,Paraíba,Nuclear,0.0,False
+2014,NORDESTE,Paraíba,Solar fotovoltaica,0.00787,True
+2014,NORDESTE,Paraíba,Térmica,3284.685629,False
+2014,NORDESTE,Pernambuco,Eólica,71.224165,True
+2014,NORDESTE,Pernambuco,Hidráulica,2160.918572,True
+2014,NORDESTE,Pernambuco,Nuclear,0.0,False
+2014,NORDESTE,Pernambuco,Solar fotovoltaica,1.252072,True
+2014,NORDESTE,Pernambuco,Térmica,10486.481818,False
+2014,NORDESTE,Piauí,Eólica,279.133714,True
+2014,NORDESTE,Piauí,Hidráulica,583.299197,True
+2014,NORDESTE,Piauí,Nuclear,0.0,False
+2014,NORDESTE,Piauí,Solar fotovoltaica,0.0,True
+2014,NORDESTE,Piauí,Térmica,128.0085,False
+2014,NORDESTE,Rio Grande do Norte,Eólica,3742.355505,True
+2014,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2014,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2014,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,0.895269,True
+2014,NORDESTE,Rio Grande do Norte,Térmica,3284.6738330000003,False
+2014,NORDESTE,Sergipe,Eólica,65.190841,True
+2014,NORDESTE,Sergipe,Hidráulica,5585.929603,True
+2014,NORDESTE,Sergipe,Nuclear,0.0,False
+2014,NORDESTE,Sergipe,Solar fotovoltaica,0.0,True
+2014,NORDESTE,Sergipe,Térmica,245.27829,False
+2014,NORTE,Acre,Eólica,0.0,True
+2014,NORTE,Acre,Hidráulica,0.0,True
+2014,NORTE,Acre,Nuclear,0.0,False
+2014,NORTE,Acre,Solar fotovoltaica,0.0,True
+2014,NORTE,Acre,Térmica,250.42345500000002,False
+2014,NORTE,Amapá,Eólica,0.0,True
+2014,NORTE,Amapá,Hidráulica,736.074699,True
+2014,NORTE,Amapá,Nuclear,0.0,False
+2014,NORTE,Amapá,Solar fotovoltaica,0.0,True
+2014,NORTE,Amapá,Térmica,1196.8776730000002,False
+2014,NORTE,Amazonas,Eólica,0.0,True
+2014,NORTE,Amazonas,Hidráulica,1465.936473,True
+2014,NORTE,Amazonas,Nuclear,0.0,False
+2014,NORTE,Amazonas,Solar fotovoltaica,0.0,True
+2014,NORTE,Amazonas,Térmica,7538.569450999999,False
+2014,NORTE,Pará,Eólica,0.0,True
+2014,NORTE,Pará,Hidráulica,40430.884558,True
+2014,NORTE,Pará,Nuclear,0.0,False
+2014,NORTE,Pará,Solar fotovoltaica,0.0,True
+2014,NORTE,Pará,Térmica,1520.343289,False
+2014,NORTE,Rondônia,Eólica,0.0,True
+2014,NORTE,Rondônia,Hidráulica,13059.951385,True
+2014,NORTE,Rondônia,Nuclear,0.0,False
+2014,NORTE,Rondônia,Solar fotovoltaica,0.02709,True
+2014,NORTE,Rondônia,Térmica,2087.886401,False
+2014,NORTE,Roraima,Eólica,0.0,True
+2014,NORTE,Roraima,Hidráulica,18.461017,True
+2014,NORTE,Roraima,Nuclear,0.0,False
+2014,NORTE,Roraima,Solar fotovoltaica,0.0,True
+2014,NORTE,Roraima,Térmica,226.177097,False
+2014,NORTE,Tocantins,Eólica,0.0,True
+2014,NORTE,Tocantins,Hidráulica,11958.377706,True
+2014,NORTE,Tocantins,Nuclear,0.0,False
+2014,NORTE,Tocantins,Solar fotovoltaica,0.199519,True
+2014,NORTE,Tocantins,Térmica,269.347692,False
+2014,SUDESTE,Espírito Santo,Eólica,0.0,True
+2014,SUDESTE,Espírito Santo,Hidráulica,1657.873758,True
+2014,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2014,SUDESTE,Espírito Santo,Solar fotovoltaica,0.013849,True
+2014,SUDESTE,Espírito Santo,Térmica,9944.208552,False
+2014,SUDESTE,Minas Gerais,Eólica,0.200884,True
+2014,SUDESTE,Minas Gerais,Hidráulica,36504.168877,True
+2014,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2014,SUDESTE,Minas Gerais,Solar fotovoltaica,1.26776,True
+2014,SUDESTE,Minas Gerais,Térmica,9628.047411,False
+2014,SUDESTE,Rio de Janeiro,Eólica,78.305374,True
+2014,SUDESTE,Rio de Janeiro,Hidráulica,5018.111222,True
+2014,SUDESTE,Rio de Janeiro,Nuclear,15378.46248,False
+2014,SUDESTE,Rio de Janeiro,Solar fotovoltaica,0.659912,True
+2014,SUDESTE,Rio de Janeiro,Térmica,42607.35064599999,False
+2014,SUDESTE,São Paulo,Eólica,0.002884,True
+2014,SUDESTE,São Paulo,Hidráulica,36063.53452,True
+2014,SUDESTE,São Paulo,Nuclear,0.0,False
+2014,SUDESTE,São Paulo,Solar fotovoltaica,1.793699,True
+2014,SUDESTE,São Paulo,Térmica,29913.266669000004,False
+2014,SUL,Paraná,Eólica,23.873085,True
+2014,SUL,Paraná,Hidráulica,92126.511431,True
+2014,SUL,Paraná,Nuclear,0.0,False
+2014,SUL,Paraná,Solar fotovoltaica,0.082355,True
+2014,SUL,Paraná,Térmica,6718.914273,False
+2014,SUL,Rio Grande do Sul,Eólica,1707.171106,True
+2014,SUL,Rio Grande do Sul,Hidráulica,26222.186026,True
+2014,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2014,SUL,Rio Grande do Sul,Solar fotovoltaica,0.07588,True
+2014,SUL,Rio Grande do Sul,Térmica,6106.1417440000005,False
+2014,SUL,Santa Catarina,Eólica,440.171252,True
+2014,SUL,Santa Catarina,Hidráulica,23001.361588,True
+2014,SUL,Santa Catarina,Nuclear,0.0,False
+2014,SUL,Santa Catarina,Solar fotovoltaica,2.517679,True
+2014,SUL,Santa Catarina,Térmica,5978.465846000001,False
+2015,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2015,CENTRO OESTE,Distrito Federal,Hidráulica,102.262138,True
+2015,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2015,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,0.553893,True
+2015,CENTRO OESTE,Distrito Federal,Térmica,16.341587,False
+2015,CENTRO OESTE,Goiás,Eólica,0.0,True
+2015,CENTRO OESTE,Goiás,Hidráulica,21941.528029,True
+2015,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2015,CENTRO OESTE,Goiás,Solar fotovoltaica,0.144559,True
+2015,CENTRO OESTE,Goiás,Térmica,4927.582998,False
+2015,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2015,CENTRO OESTE,Mato Grosso,Hidráulica,9860.784432,True
+2015,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2015,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,0.02786,True
+2015,CENTRO OESTE,Mato Grosso,Térmica,4391.979348,False
+2015,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2015,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,14039.743967,True
+2015,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2015,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,0.624811,True
+2015,CENTRO OESTE,Mato Grosso do Sul,Térmica,9570.187677999998,False
+2015,NORDESTE,Alagoas,Eólica,0.0,True
+2015,NORDESTE,Alagoas,Hidráulica,9290.017038,True
+2015,NORDESTE,Alagoas,Nuclear,0.0,False
+2015,NORDESTE,Alagoas,Solar fotovoltaica,0.073751,True
+2015,NORDESTE,Alagoas,Térmica,761.630724,False
+2015,NORDESTE,Bahia,Eólica,3998.635119,True
+2015,NORDESTE,Bahia,Hidráulica,9066.871265,True
+2015,NORDESTE,Bahia,Nuclear,0.0,False
+2015,NORDESTE,Bahia,Solar fotovoltaica,5.107541,True
+2015,NORDESTE,Bahia,Térmica,9214.418484999998,False
+2015,NORDESTE,Ceará,Eólica,4472.416827,True
+2015,NORDESTE,Ceará,Hidráulica,17.740419,True
+2015,NORDESTE,Ceará,Nuclear,0.0,False
+2015,NORDESTE,Ceará,Solar fotovoltaica,2.420164,True
+2015,NORDESTE,Ceará,Térmica,12027.522246,False
+2015,NORDESTE,Maranhão,Eólica,0.064803,True
+2015,NORDESTE,Maranhão,Hidráulica,2700.140567,True
+2015,NORDESTE,Maranhão,Nuclear,0.0,False
+2015,NORDESTE,Maranhão,Solar fotovoltaica,0.576332,True
+2015,NORDESTE,Maranhão,Térmica,11075.163872,False
+2015,NORDESTE,Paraíba,Eólica,157.809369,True
+2015,NORDESTE,Paraíba,Hidráulica,3.37108,True
+2015,NORDESTE,Paraíba,Nuclear,0.0,False
+2015,NORDESTE,Paraíba,Solar fotovoltaica,0.071746,True
+2015,NORDESTE,Paraíba,Térmica,3185.699078,False
+2015,NORDESTE,Pernambuco,Eólica,647.506208,True
+2015,NORDESTE,Pernambuco,Hidráulica,1938.886036,True
+2015,NORDESTE,Pernambuco,Nuclear,0.0,False
+2015,NORDESTE,Pernambuco,Solar fotovoltaica,25.442588,True
+2015,NORDESTE,Pernambuco,Térmica,8410.784949,False
+2015,NORDESTE,Piauí,Eólica,898.166776,True
+2015,NORDESTE,Piauí,Hidráulica,501.848558,True
+2015,NORDESTE,Piauí,Nuclear,0.0,False
+2015,NORDESTE,Piauí,Solar fotovoltaica,0.231375,True
+2015,NORDESTE,Piauí,Térmica,44.051252000000005,False
+2015,NORDESTE,Rio Grande do Norte,Eólica,7468.507321,True
+2015,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2015,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2015,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,3.747424,True
+2015,NORDESTE,Rio Grande do Norte,Térmica,3089.151458,False
+2015,NORDESTE,Sergipe,Eólica,65.033284,True
+2015,NORDESTE,Sergipe,Hidráulica,4930.345561,True
+2015,NORDESTE,Sergipe,Nuclear,0.0,False
+2015,NORDESTE,Sergipe,Solar fotovoltaica,0.0,True
+2015,NORDESTE,Sergipe,Térmica,237.85524500000002,False
+2015,NORTE,Acre,Eólica,0.0,True
+2015,NORTE,Acre,Hidráulica,0.0,True
+2015,NORTE,Acre,Nuclear,0.0,False
+2015,NORTE,Acre,Solar fotovoltaica,0.003531,True
+2015,NORTE,Acre,Térmica,280.56401,False
+2015,NORTE,Amapá,Eólica,0.0,True
+2015,NORTE,Amapá,Hidráulica,1983.956496,True
+2015,NORTE,Amapá,Nuclear,0.0,False
+2015,NORTE,Amapá,Solar fotovoltaica,0.0,True
+2015,NORTE,Amapá,Térmica,396.287646,False
+2015,NORTE,Amazonas,Eólica,0.0,True
+2015,NORTE,Amazonas,Hidráulica,1192.956755,True
+2015,NORTE,Amazonas,Nuclear,0.0,False
+2015,NORTE,Amazonas,Solar fotovoltaica,0.182254,True
+2015,NORTE,Amazonas,Térmica,8001.918641,False
+2015,NORTE,Pará,Eólica,0.0,True
+2015,NORTE,Pará,Hidráulica,36600.098523,True
+2015,NORTE,Pará,Nuclear,0.0,False
+2015,NORTE,Pará,Solar fotovoltaica,0.164895,True
+2015,NORTE,Pará,Térmica,1702.474008,False
+2015,NORTE,Rondônia,Eólica,0.0,True
+2015,NORTE,Rondônia,Hidráulica,24537.171373,True
+2015,NORTE,Rondônia,Nuclear,0.0,False
+2015,NORTE,Rondônia,Solar fotovoltaica,0.0,True
+2015,NORTE,Rondônia,Térmica,1926.229511,False
+2015,NORTE,Roraima,Eólica,0.0,True
+2015,NORTE,Roraima,Hidráulica,19.127375,True
+2015,NORTE,Roraima,Nuclear,0.0,False
+2015,NORTE,Roraima,Solar fotovoltaica,0.0,True
+2015,NORTE,Roraima,Térmica,174.57029599999998,False
+2015,NORTE,Tocantins,Eólica,0.0,True
+2015,NORTE,Tocantins,Hidráulica,10083.963115,True
+2015,NORTE,Tocantins,Nuclear,0.0,False
+2015,NORTE,Tocantins,Solar fotovoltaica,0.180822,True
+2015,NORTE,Tocantins,Térmica,262.879099,False
+2015,SUDESTE,Espírito Santo,Eólica,0.0,True
+2015,SUDESTE,Espírito Santo,Hidráulica,866.613285,True
+2015,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2015,SUDESTE,Espírito Santo,Solar fotovoltaica,0.161866,True
+2015,SUDESTE,Espírito Santo,Térmica,10073.094024,False
+2015,SUDESTE,Minas Gerais,Eólica,0.222411,True
+2015,SUDESTE,Minas Gerais,Hidráulica,27883.648066,True
+2015,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2015,SUDESTE,Minas Gerais,Solar fotovoltaica,6.340648,True
+2015,SUDESTE,Minas Gerais,Térmica,9797.651478000002,False
+2015,SUDESTE,Rio de Janeiro,Eólica,76.459501,True
+2015,SUDESTE,Rio de Janeiro,Hidráulica,3978.510986,True
+2015,SUDESTE,Rio de Janeiro,Nuclear,14734.15264,False
+2015,SUDESTE,Rio de Janeiro,Solar fotovoltaica,2.325517,True
+2015,SUDESTE,Rio de Janeiro,Térmica,42968.048407999995,False
+2015,SUDESTE,São Paulo,Eólica,0.006615,True
+2015,SUDESTE,São Paulo,Hidráulica,32960.832904,True
+2015,SUDESTE,São Paulo,Nuclear,0.0,False
+2015,SUDESTE,São Paulo,Solar fotovoltaica,3.199294,True
+2015,SUDESTE,São Paulo,Térmica,30002.872028999995,False
+2015,SUL,Paraná,Eólica,21.197485,True
+2015,SUL,Paraná,Hidráulica,93834.639125,True
+2015,SUL,Paraná,Nuclear,0.0,False
+2015,SUL,Paraná,Solar fotovoltaica,1.02052,True
+2015,SUL,Paraná,Térmica,5622.252167000001,False
+2015,SUL,Rio Grande do Sul,Eólica,3499.441156,True
+2015,SUL,Rio Grande do Sul,Hidráulica,26362.994533,True
+2015,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2015,SUL,Rio Grande do Sul,Solar fotovoltaica,1.635554,True
+2015,SUL,Rio Grande do Sul,Térmica,6436.427666999999,False
+2015,SUL,Santa Catarina,Eólica,320.235285,True
+2015,SUL,Santa Catarina,Hidráulica,25044.756568,True
+2015,SUL,Santa Catarina,Nuclear,0.0,False
+2015,SUL,Santa Catarina,Solar fotovoltaica,4.680465,True
+2015,SUL,Santa Catarina,Térmica,5887.587941000001,False
+2016,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2016,CENTRO OESTE,Distrito Federal,Hidráulica,80.510477,True
+2016,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2016,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,1.006629,True
+2016,CENTRO OESTE,Distrito Federal,Térmica,3.408299,False
+2016,CENTRO OESTE,Goiás,Eólica,0.0,True
+2016,CENTRO OESTE,Goiás,Hidráulica,19970.360169,True
+2016,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2016,CENTRO OESTE,Goiás,Solar fotovoltaica,1.049808,True
+2016,CENTRO OESTE,Goiás,Térmica,4163.844743999999,False
+2016,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2016,CENTRO OESTE,Mato Grosso,Hidráulica,12370.451517,True
+2016,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2016,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,1.117751,True
+2016,CENTRO OESTE,Mato Grosso,Térmica,1056.033335,False
+2016,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2016,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,17557.051532,True
+2016,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2016,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,0.98127,True
+2016,CENTRO OESTE,Mato Grosso do Sul,Térmica,6745.539007,False
+2016,NORDESTE,Alagoas,Eólica,0.0,True
+2016,NORDESTE,Alagoas,Hidráulica,7680.06871,True
+2016,NORDESTE,Alagoas,Nuclear,0.0,False
+2016,NORDESTE,Alagoas,Solar fotovoltaica,0.303878,True
+2016,NORDESTE,Alagoas,Térmica,823.6570710000001,False
+2016,NORDESTE,Bahia,Eólica,6294.751833,True
+2016,NORDESTE,Bahia,Hidráulica,7702.056761,True
+2016,NORDESTE,Bahia,Nuclear,0.0,False
+2016,NORDESTE,Bahia,Solar fotovoltaica,5.076847,True
+2016,NORDESTE,Bahia,Térmica,7268.19145,False
+2016,NORDESTE,Ceará,Eólica,5023.514439,True
+2016,NORDESTE,Ceará,Hidráulica,4.219217,True
+2016,NORDESTE,Ceará,Nuclear,0.0,False
+2016,NORDESTE,Ceará,Solar fotovoltaica,8.46076,True
+2016,NORDESTE,Ceará,Térmica,9309.122414,False
+2016,NORDESTE,Maranhão,Eólica,0.074437,True
+2016,NORDESTE,Maranhão,Hidráulica,2166.483055,True
+2016,NORDESTE,Maranhão,Nuclear,0.0,False
+2016,NORDESTE,Maranhão,Solar fotovoltaica,1.28779,True
+2016,NORDESTE,Maranhão,Térmica,12570.320132,False
+2016,NORDESTE,Paraíba,Eólica,163.411405,True
+2016,NORDESTE,Paraíba,Hidráulica,3.345463,True
+2016,NORDESTE,Paraíba,Nuclear,0.0,False
+2016,NORDESTE,Paraíba,Solar fotovoltaica,0.355518,True
+2016,NORDESTE,Paraíba,Térmica,1320.566441,False
+2016,NORDESTE,Pernambuco,Eólica,2142.11293,True
+2016,NORDESTE,Pernambuco,Hidráulica,1647.74309,True
+2016,NORDESTE,Pernambuco,Nuclear,0.0,False
+2016,NORDESTE,Pernambuco,Solar fotovoltaica,21.101174,True
+2016,NORDESTE,Pernambuco,Térmica,7174.372154999999,False
+2016,NORDESTE,Piauí,Eólica,3132.832384,True
+2016,NORDESTE,Piauí,Hidráulica,457.294507,True
+2016,NORDESTE,Piauí,Nuclear,0.0,False
+2016,NORDESTE,Piauí,Solar fotovoltaica,0.0,True
+2016,NORDESTE,Piauí,Térmica,29.246403,False
+2016,NORDESTE,Rio Grande do Norte,Eólica,11528.99114,True
+2016,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2016,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2016,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,3.361961,True
+2016,NORDESTE,Rio Grande do Norte,Térmica,2250.2607559999997,False
+2016,NORDESTE,Sergipe,Eólica,63.122521,True
+2016,NORDESTE,Sergipe,Hidráulica,4096.949355,True
+2016,NORDESTE,Sergipe,Nuclear,0.0,False
+2016,NORDESTE,Sergipe,Solar fotovoltaica,0.088481,True
+2016,NORDESTE,Sergipe,Térmica,172.876734,False
+2016,NORTE,Acre,Eólica,0.0,True
+2016,NORTE,Acre,Hidráulica,0.0,True
+2016,NORTE,Acre,Nuclear,0.0,False
+2016,NORTE,Acre,Solar fotovoltaica,0.014347,True
+2016,NORTE,Acre,Térmica,240.642258,False
+2016,NORTE,Amapá,Eólica,0.0,True
+2016,NORTE,Amapá,Hidráulica,1831.086252,True
+2016,NORTE,Amapá,Nuclear,0.0,False
+2016,NORTE,Amapá,Solar fotovoltaica,0.0,True
+2016,NORTE,Amapá,Térmica,60.250527999999996,False
+2016,NORTE,Amazonas,Eólica,0.0,True
+2016,NORTE,Amazonas,Hidráulica,576.448583,True
+2016,NORTE,Amazonas,Nuclear,0.0,False
+2016,NORTE,Amazonas,Solar fotovoltaica,0.202976,True
+2016,NORTE,Amazonas,Térmica,6179.0109649999995,False
+2016,NORTE,Pará,Eólica,0.003326,True
+2016,NORTE,Pará,Hidráulica,30110.693348,True
+2016,NORTE,Pará,Nuclear,0.0,False
+2016,NORTE,Pará,Solar fotovoltaica,0.150118,True
+2016,NORTE,Pará,Térmica,1659.4772159999998,False
+2016,NORTE,Rondônia,Eólica,0.0,True
+2016,NORTE,Rondônia,Hidráulica,22540.839889,True
+2016,NORTE,Rondônia,Nuclear,0.0,False
+2016,NORTE,Rondônia,Solar fotovoltaica,0.144835,True
+2016,NORTE,Rondônia,Térmica,622.1526289999999,False
+2016,NORTE,Roraima,Eólica,0.0,True
+2016,NORTE,Roraima,Hidráulica,12.585214,True
+2016,NORTE,Roraima,Nuclear,0.0,False
+2016,NORTE,Roraima,Solar fotovoltaica,0.0,True
+2016,NORTE,Roraima,Térmica,143.565244,False
+2016,NORTE,Tocantins,Eólica,0.0,True
+2016,NORTE,Tocantins,Hidráulica,8025.564607,True
+2016,NORTE,Tocantins,Nuclear,0.0,False
+2016,NORTE,Tocantins,Solar fotovoltaica,0.406001,True
+2016,NORTE,Tocantins,Térmica,255.551206,False
+2016,SUDESTE,Espírito Santo,Eólica,0.0,True
+2016,SUDESTE,Espírito Santo,Hidráulica,885.532884,True
+2016,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2016,SUDESTE,Espírito Santo,Solar fotovoltaica,0.885294,True
+2016,SUDESTE,Espírito Santo,Térmica,9504.721335,False
+2016,SUDESTE,Minas Gerais,Eólica,0.258048,True
+2016,SUDESTE,Minas Gerais,Hidráulica,38754.926512,True
+2016,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2016,SUDESTE,Minas Gerais,Solar fotovoltaica,11.188109,True
+2016,SUDESTE,Minas Gerais,Térmica,8302.694590000001,False
+2016,SUDESTE,Rio de Janeiro,Eólica,68.464169,True
+2016,SUDESTE,Rio de Janeiro,Hidráulica,4995.479067,True
+2016,SUDESTE,Rio de Janeiro,Nuclear,15864.343667,False
+2016,SUDESTE,Rio de Janeiro,Solar fotovoltaica,4.180478,True
+2016,SUDESTE,Rio de Janeiro,Térmica,33508.910846,False
+2016,SUDESTE,São Paulo,Eólica,0.059255,True
+2016,SUDESTE,São Paulo,Hidráulica,47422.097901,True
+2016,SUDESTE,São Paulo,Nuclear,0.0,False
+2016,SUDESTE,São Paulo,Solar fotovoltaica,8.011354,True
+2016,SUDESTE,São Paulo,Térmica,26488.38939,False
+2016,SUL,Paraná,Eólica,19.798291,True
+2016,SUL,Paraná,Hidráulica,105678.001866,True
+2016,SUL,Paraná,Nuclear,0.0,False
+2016,SUL,Paraná,Solar fotovoltaica,3.525282,True
+2016,SUL,Paraná,Térmica,4248.192032,False
+2016,SUL,Rio Grande do Sul,Eólica,4773.177425,True
+2016,SUL,Rio Grande do Sul,Hidráulica,23576.323487,True
+2016,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2016,SUL,Rio Grande do Sul,Solar fotovoltaica,5.427935,True
+2016,SUL,Rio Grande do Sul,Térmica,4872.254071,False
+2016,SUL,Santa Catarina,Eólica,278.300393,True
+2016,SUL,Santa Catarina,Hidráulica,22764.828915,True
+2016,SUL,Santa Catarina,Nuclear,0.0,False
+2016,SUL,Santa Catarina,Solar fotovoltaica,6.931993,True
+2016,SUL,Santa Catarina,Térmica,5065.804545000001,False
+2017,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2017,CENTRO OESTE,Distrito Federal,Hidráulica,60.278695,True
+2017,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2017,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,3.934626,True
+2017,CENTRO OESTE,Distrito Federal,Térmica,2.732226,False
+2017,CENTRO OESTE,Goiás,Eólica,0.0,True
+2017,CENTRO OESTE,Goiás,Hidráulica,17039.963822,True
+2017,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2017,CENTRO OESTE,Goiás,Solar fotovoltaica,6.068663,True
+2017,CENTRO OESTE,Goiás,Térmica,4326.373074,False
+2017,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2017,CENTRO OESTE,Mato Grosso,Hidráulica,18109.534157,True
+2017,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2017,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,5.324534,True
+2017,CENTRO OESTE,Mato Grosso,Térmica,1837.645726,False
+2017,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2017,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,16874.17176,True
+2017,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2017,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,2.436756,True
+2017,CENTRO OESTE,Mato Grosso do Sul,Térmica,7254.076317000001,False
+2017,NORDESTE,Alagoas,Eólica,0.0,True
+2017,NORDESTE,Alagoas,Hidráulica,5376.609005,True
+2017,NORDESTE,Alagoas,Nuclear,0.0,False
+2017,NORDESTE,Alagoas,Solar fotovoltaica,1.029446,True
+2017,NORDESTE,Alagoas,Térmica,760.040459,False
+2017,NORDESTE,Bahia,Eólica,8338.353896,True
+2017,NORDESTE,Bahia,Hidráulica,5857.410709,True
+2017,NORDESTE,Bahia,Nuclear,0.0,False
+2017,NORDESTE,Bahia,Solar fotovoltaica,333.413014,True
+2017,NORDESTE,Bahia,Térmica,7276.579852000001,False
+2017,NORDESTE,Ceará,Eólica,5359.329518,True
+2017,NORDESTE,Ceará,Hidráulica,4.775062,True
+2017,NORDESTE,Ceará,Nuclear,0.0,False
+2017,NORDESTE,Ceará,Solar fotovoltaica,16.441019,True
+2017,NORDESTE,Ceará,Térmica,10423.533311000001,False
+2017,NORDESTE,Maranhão,Eólica,631.267624,True
+2017,NORDESTE,Maranhão,Hidráulica,2183.756302,True
+2017,NORDESTE,Maranhão,Nuclear,0.0,False
+2017,NORDESTE,Maranhão,Solar fotovoltaica,3.070857,True
+2017,NORDESTE,Maranhão,Térmica,11574.519187,False
+2017,NORDESTE,Paraíba,Eólica,264.248695,True
+2017,NORDESTE,Paraíba,Hidráulica,3.789449,True
+2017,NORDESTE,Paraíba,Nuclear,0.0,False
+2017,NORDESTE,Paraíba,Solar fotovoltaica,1.870466,True
+2017,NORDESTE,Paraíba,Térmica,1602.55877,False
+2017,NORDESTE,Pernambuco,Eólica,3030.059109,True
+2017,NORDESTE,Pernambuco,Hidráulica,1277.286948,True
+2017,NORDESTE,Pernambuco,Nuclear,0.0,False
+2017,NORDESTE,Pernambuco,Solar fotovoltaica,21.838967,True
+2017,NORDESTE,Pernambuco,Térmica,7409.617395,False
+2017,NORDESTE,Piauí,Eólica,4834.633947,True
+2017,NORDESTE,Piauí,Hidráulica,499.520191,True
+2017,NORDESTE,Piauí,Nuclear,0.0,False
+2017,NORDESTE,Piauí,Solar fotovoltaica,186.50758,True
+2017,NORDESTE,Piauí,Térmica,31.421007999999997,False
+2017,NORDESTE,Rio Grande do Norte,Eólica,13656.285928,True
+2017,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2017,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2017,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,18.381788,True
+2017,NORDESTE,Rio Grande do Norte,Térmica,2267.276738,False
+2017,NORDESTE,Sergipe,Eólica,73.321474,True
+2017,NORDESTE,Sergipe,Hidráulica,2723.573085,True
+2017,NORDESTE,Sergipe,Nuclear,0.0,False
+2017,NORDESTE,Sergipe,Solar fotovoltaica,0.773593,True
+2017,NORDESTE,Sergipe,Térmica,181.40446799999998,False
+2017,NORTE,Acre,Eólica,0.0,True
+2017,NORTE,Acre,Hidráulica,0.0,True
+2017,NORTE,Acre,Nuclear,0.0,False
+2017,NORTE,Acre,Solar fotovoltaica,0.060775,True
+2017,NORTE,Acre,Térmica,188.788951,False
+2017,NORTE,Amapá,Eólica,0.0,True
+2017,NORTE,Amapá,Hidráulica,2616.02917,True
+2017,NORTE,Amapá,Nuclear,0.0,False
+2017,NORTE,Amapá,Solar fotovoltaica,5.804051,True
+2017,NORTE,Amapá,Térmica,38.022718999999995,False
+2017,NORTE,Amazonas,Eólica,0.0,True
+2017,NORTE,Amazonas,Hidráulica,1081.085513,True
+2017,NORTE,Amazonas,Nuclear,0.0,False
+2017,NORTE,Amazonas,Solar fotovoltaica,0.312441,True
+2017,NORTE,Amazonas,Térmica,6052.369105,False
+2017,NORTE,Pará,Eólica,0.003517,True
+2017,NORTE,Pará,Hidráulica,41497.804004,True
+2017,NORTE,Pará,Nuclear,0.0,False
+2017,NORTE,Pará,Solar fotovoltaica,0.517943,True
+2017,NORTE,Pará,Térmica,1497.052713,False
+2017,NORTE,Rondônia,Eólica,0.0,True
+2017,NORTE,Rondônia,Hidráulica,33953.420025,True
+2017,NORTE,Rondônia,Nuclear,0.0,False
+2017,NORTE,Rondônia,Solar fotovoltaica,0.43993,True
+2017,NORTE,Rondônia,Térmica,284.74365,False
+2017,NORTE,Roraima,Eólica,0.0,True
+2017,NORTE,Roraima,Hidráulica,0.0,True
+2017,NORTE,Roraima,Nuclear,0.0,False
+2017,NORTE,Roraima,Solar fotovoltaica,0.0,True
+2017,NORTE,Roraima,Térmica,119.59696,False
+2017,NORTE,Tocantins,Eólica,0.0,True
+2017,NORTE,Tocantins,Hidráulica,7215.377275,True
+2017,NORTE,Tocantins,Nuclear,0.0,False
+2017,NORTE,Tocantins,Solar fotovoltaica,0.721167,True
+2017,NORTE,Tocantins,Térmica,268.209985,False
+2017,SUDESTE,Espírito Santo,Eólica,0.0,True
+2017,SUDESTE,Espírito Santo,Hidráulica,1043.102537,True
+2017,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2017,SUDESTE,Espírito Santo,Solar fotovoltaica,2.533285,True
+2017,SUDESTE,Espírito Santo,Térmica,9696.276734999998,False
+2017,SUDESTE,Minas Gerais,Eólica,0.268994,True
+2017,SUDESTE,Minas Gerais,Hidráulica,35746.721992,True
+2017,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2017,SUDESTE,Minas Gerais,Solar fotovoltaica,142.998271,True
+2017,SUDESTE,Minas Gerais,Térmica,9037.344246999999,False
+2017,SUDESTE,Rio de Janeiro,Eólica,77.549167,True
+2017,SUDESTE,Rio de Janeiro,Hidráulica,5310.112331,True
+2017,SUDESTE,Rio de Janeiro,Nuclear,15739.196438,False
+2017,SUDESTE,Rio de Janeiro,Solar fotovoltaica,10.836211,True
+2017,SUDESTE,Rio de Janeiro,Térmica,40812.188756,False
+2017,SUDESTE,São Paulo,Eólica,0.062604,True
+2017,SUDESTE,São Paulo,Hidráulica,44902.572071,True
+2017,SUDESTE,São Paulo,Nuclear,0.0,False
+2017,SUDESTE,São Paulo,Solar fotovoltaica,23.027553,True
+2017,SUDESTE,São Paulo,Térmica,28184.806215,False
+2017,SUL,Paraná,Eólica,22.712569,True
+2017,SUL,Paraná,Hidráulica,91934.941065,True
+2017,SUL,Paraná,Nuclear,0.0,False
+2017,SUL,Paraná,Solar fotovoltaica,9.843377,True
+2017,SUL,Paraná,Térmica,4929.702692000001,False
+2017,SUL,Rio Grande do Sul,Eólica,5829.83576,True
+2017,SUL,Rio Grande do Sul,Hidráulica,19934.85762,True
+2017,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2017,SUL,Rio Grande do Sul,Solar fotovoltaica,21.352612,True
+2017,SUL,Rio Grande do Sul,Térmica,4445.8011050000005,False
+2017,SUL,Santa Catarina,Eólica,255.325446,True
+2017,SUL,Santa Catarina,Hidráulica,15659.763587,True
+2017,SUL,Santa Catarina,Nuclear,0.0,False
+2017,SUL,Santa Catarina,Solar fotovoltaica,12.274477,True
+2017,SUL,Santa Catarina,Térmica,5220.857010999999,False
+2018,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2018,CENTRO OESTE,Distrito Federal,Hidráulica,86.088289,True
+2018,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2018,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,10.452695,True
+2018,CENTRO OESTE,Distrito Federal,Térmica,1.8752060000000002,False
+2018,CENTRO OESTE,Goiás,Eólica,0.0,True
+2018,CENTRO OESTE,Goiás,Hidráulica,20652.765696,True
+2018,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2018,CENTRO OESTE,Goiás,Solar fotovoltaica,20.65145,True
+2018,CENTRO OESTE,Goiás,Térmica,4374.580169999999,False
+2018,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2018,CENTRO OESTE,Mato Grosso,Hidráulica,22679.917862,True
+2018,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2018,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,23.005712,True
+2018,CENTRO OESTE,Mato Grosso,Térmica,810.0577720000001,False
+2018,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2018,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,17208.008832,True
+2018,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2018,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,10.149974,True
+2018,CENTRO OESTE,Mato Grosso do Sul,Térmica,7993.3517059999995,False
+2018,NORDESTE,Alagoas,Eólica,0.0,True
+2018,NORDESTE,Alagoas,Hidráulica,5144.983836,True
+2018,NORDESTE,Alagoas,Nuclear,0.0,False
+2018,NORDESTE,Alagoas,Solar fotovoltaica,3.524731,True
+2018,NORDESTE,Alagoas,Térmica,801.127217,False
+2018,NORDESTE,Bahia,Eólica,11821.850241,True
+2018,NORDESTE,Bahia,Hidráulica,6093.168439,True
+2018,NORDESTE,Bahia,Nuclear,0.0,False
+2018,NORDESTE,Bahia,Solar fotovoltaica,1052.284119,True
+2018,NORDESTE,Bahia,Térmica,6907.551965999999,False
+2018,NORDESTE,Ceará,Eólica,5828.274702,True
+2018,NORDESTE,Ceará,Hidráulica,1.022704,True
+2018,NORDESTE,Ceará,Nuclear,0.0,False
+2018,NORDESTE,Ceará,Solar fotovoltaica,65.624662,True
+2018,NORDESTE,Ceará,Térmica,7067.194121,False
+2018,NORDESTE,Maranhão,Eólica,1017.358651,True
+2018,NORDESTE,Maranhão,Hidráulica,2429.532554,True
+2018,NORDESTE,Maranhão,Nuclear,0.0,False
+2018,NORDESTE,Maranhão,Solar fotovoltaica,6.93281,True
+2018,NORDESTE,Maranhão,Térmica,9744.323904999997,False
+2018,NORDESTE,Paraíba,Eólica,568.702075,True
+2018,NORDESTE,Paraíba,Hidráulica,0.806282,True
+2018,NORDESTE,Paraíba,Nuclear,0.0,False
+2018,NORDESTE,Paraíba,Solar fotovoltaica,67.31152,True
+2018,NORDESTE,Paraíba,Térmica,1151.720035,False
+2018,NORDESTE,Pernambuco,Eólica,3264.881683,True
+2018,NORDESTE,Pernambuco,Hidráulica,1241.008802,True
+2018,NORDESTE,Pernambuco,Nuclear,0.0,False
+2018,NORDESTE,Pernambuco,Solar fotovoltaica,34.714443,True
+2018,NORDESTE,Pernambuco,Térmica,5980.741121999999,False
+2018,NORDESTE,Piauí,Eólica,5723.568503,True
+2018,NORDESTE,Piauí,Hidráulica,606.332593,True
+2018,NORDESTE,Piauí,Nuclear,0.0,False
+2018,NORDESTE,Piauí,Solar fotovoltaica,677.479864,True
+2018,NORDESTE,Piauí,Térmica,60.157806,False
+2018,NORDESTE,Rio Grande do Norte,Eólica,14143.49307,True
+2018,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2018,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2018,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,195.807609,True
+2018,NORDESTE,Rio Grande do Norte,Térmica,1732.284251,False
+2018,NORDESTE,Sergipe,Eólica,79.685222,True
+2018,NORDESTE,Sergipe,Hidráulica,2587.761356,True
+2018,NORDESTE,Sergipe,Nuclear,0.0,False
+2018,NORDESTE,Sergipe,Solar fotovoltaica,3.531242,True
+2018,NORDESTE,Sergipe,Térmica,163.27761600000002,False
+2018,NORTE,Acre,Eólica,0.0,True
+2018,NORTE,Acre,Hidráulica,0.0,True
+2018,NORTE,Acre,Nuclear,0.0,False
+2018,NORTE,Acre,Solar fotovoltaica,0.516426,True
+2018,NORTE,Acre,Térmica,241.755228,False
+2018,NORTE,Amapá,Eólica,0.0,True
+2018,NORTE,Amapá,Hidráulica,3103.255859,True
+2018,NORTE,Amapá,Nuclear,0.0,False
+2018,NORTE,Amapá,Solar fotovoltaica,6.604537,True
+2018,NORTE,Amapá,Térmica,51.167774,False
+2018,NORTE,Amazonas,Eólica,0.0,True
+2018,NORTE,Amazonas,Hidráulica,888.728308,True
+2018,NORTE,Amazonas,Nuclear,0.0,False
+2018,NORTE,Amazonas,Solar fotovoltaica,0.950092,True
+2018,NORTE,Amazonas,Térmica,8006.715186000001,False
+2018,NORTE,Pará,Eólica,0.002747,True
+2018,NORTE,Pará,Hidráulica,52499.778854,True
+2018,NORTE,Pará,Nuclear,0.0,False
+2018,NORTE,Pará,Solar fotovoltaica,3.491004,True
+2018,NORTE,Pará,Térmica,1615.3482549999999,False
+2018,NORTE,Rondônia,Eólica,0.0,True
+2018,NORTE,Rondônia,Hidráulica,36263.477609,True
+2018,NORTE,Rondônia,Nuclear,0.0,False
+2018,NORTE,Rondônia,Solar fotovoltaica,1.598972,True
+2018,NORTE,Rondônia,Térmica,360.005491,False
+2018,NORTE,Roraima,Eólica,0.0,True
+2018,NORTE,Roraima,Hidráulica,0.0,True
+2018,NORTE,Roraima,Nuclear,0.0,False
+2018,NORTE,Roraima,Solar fotovoltaica,0.438748,True
+2018,NORTE,Roraima,Térmica,301.458197,False
+2018,NORTE,Tocantins,Eólica,0.0,True
+2018,NORTE,Tocantins,Hidráulica,9040.921384,True
+2018,NORTE,Tocantins,Nuclear,0.0,False
+2018,NORTE,Tocantins,Solar fotovoltaica,5.05299,True
+2018,NORTE,Tocantins,Térmica,261.727211,False
+2018,SUDESTE,Espírito Santo,Eólica,0.0,True
+2018,SUDESTE,Espírito Santo,Hidráulica,1931.850889,True
+2018,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2018,SUDESTE,Espírito Santo,Solar fotovoltaica,8.433191,True
+2018,SUDESTE,Espírito Santo,Térmica,8832.402733,False
+2018,SUDESTE,Minas Gerais,Eólica,0.268994,True
+2018,SUDESTE,Minas Gerais,Hidráulica,34946.682506,True
+2018,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2018,SUDESTE,Minas Gerais,Solar fotovoltaica,816.800374,True
+2018,SUDESTE,Minas Gerais,Térmica,8487.119564,False
+2018,SUDESTE,Rio de Janeiro,Eólica,51.831235,True
+2018,SUDESTE,Rio de Janeiro,Hidráulica,5732.452698,True
+2018,SUDESTE,Rio de Janeiro,Nuclear,15673.887022,False
+2018,SUDESTE,Rio de Janeiro,Solar fotovoltaica,22.799386,True
+2018,SUDESTE,Rio de Janeiro,Térmica,34005.270125999996,False
+2018,SUDESTE,São Paulo,Eólica,0.051113,True
+2018,SUDESTE,São Paulo,Hidráulica,39914.49307,True
+2018,SUDESTE,São Paulo,Nuclear,0.0,False
+2018,SUDESTE,São Paulo,Solar fotovoltaica,278.419875,True
+2018,SUDESTE,São Paulo,Térmica,26805.445307000005,False
+2018,SUL,Paraná,Eólica,19.030755,True
+2018,SUL,Paraná,Hidráulica,88745.773899,True
+2018,SUL,Paraná,Nuclear,0.0,False
+2018,SUL,Paraná,Solar fotovoltaica,30.404501,True
+2018,SUL,Paraná,Térmica,5016.394026000001,False
+2018,SUL,Rio Grande do Sul,Eólica,5765.267715,True
+2018,SUL,Rio Grande do Sul,Hidráulica,20284.84772,True
+2018,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2018,SUL,Rio Grande do Sul,Solar fotovoltaica,75.791234,True
+2018,SUL,Rio Grande do Sul,Térmica,4545.447231,False
+2018,SUL,Santa Catarina,Eólica,190.874509,True
+2018,SUL,Santa Catarina,Hidráulica,16887.415835,True
+2018,SUL,Santa Catarina,Nuclear,0.0,False
+2018,SUL,Santa Catarina,Solar fotovoltaica,38.662672,True
+2018,SUL,Santa Catarina,Térmica,5303.039486000001,False
+2019,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2019,CENTRO OESTE,Distrito Federal,Hidráulica,87.766659,True
+2019,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2019,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,22.619393,True
+2019,CENTRO OESTE,Distrito Federal,Térmica,4.492618,False
+2019,CENTRO OESTE,Goiás,Eólica,0.0,True
+2019,CENTRO OESTE,Goiás,Hidráulica,21876.897605,True
+2019,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2019,CENTRO OESTE,Goiás,Solar fotovoltaica,63.636895,True
+2019,CENTRO OESTE,Goiás,Térmica,4508.705155000001,False
+2019,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2019,CENTRO OESTE,Mato Grosso,Hidráulica,24299.827297,True
+2019,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2019,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,97.156918,True
+2019,CENTRO OESTE,Mato Grosso,Térmica,2375.0002380000005,False
+2019,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2019,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,17245.944164,True
+2019,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2019,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,45.041601,True
+2019,CENTRO OESTE,Mato Grosso do Sul,Térmica,8166.810852,False
+2019,NORDESTE,Alagoas,Eólica,0.0,True
+2019,NORDESTE,Alagoas,Hidráulica,7387.381387,True
+2019,NORDESTE,Alagoas,Nuclear,0.0,False
+2019,NORDESTE,Alagoas,Solar fotovoltaica,10.580868,True
+2019,NORDESTE,Alagoas,Térmica,813.143619,False
+2019,NORDESTE,Bahia,Eólica,17412.432687,True
+2019,NORDESTE,Bahia,Hidráulica,7713.643516,True
+2019,NORDESTE,Bahia,Nuclear,0.0,False
+2019,NORDESTE,Bahia,Solar fotovoltaica,1721.513041,True
+2019,NORDESTE,Bahia,Térmica,5507.037236,False
+2019,NORDESTE,Ceará,Eólica,6278.730664,True
+2019,NORDESTE,Ceará,Hidráulica,4.489068,True
+2019,NORDESTE,Ceará,Nuclear,0.0,False
+2019,NORDESTE,Ceará,Solar fotovoltaica,469.383168,True
+2019,NORDESTE,Ceará,Térmica,7648.232272,False
+2019,NORDESTE,Maranhão,Eólica,1615.000765,True
+2019,NORDESTE,Maranhão,Hidráulica,2384.636892,True
+2019,NORDESTE,Maranhão,Nuclear,0.0,False
+2019,NORDESTE,Maranhão,Solar fotovoltaica,24.658834,True
+2019,NORDESTE,Maranhão,Térmica,9184.990904,False
+2019,NORDESTE,Paraíba,Eólica,553.696905,True
+2019,NORDESTE,Paraíba,Hidráulica,3.601203,True
+2019,NORDESTE,Paraíba,Nuclear,0.0,False
+2019,NORDESTE,Paraíba,Solar fotovoltaica,286.503938,True
+2019,NORDESTE,Paraíba,Térmica,710.82499,False
+2019,NORDESTE,Pernambuco,Eólica,3223.54406,True
+2019,NORDESTE,Pernambuco,Hidráulica,1663.771425,True
+2019,NORDESTE,Pernambuco,Nuclear,0.0,False
+2019,NORDESTE,Pernambuco,Solar fotovoltaica,95.997498,True
+2019,NORDESTE,Pernambuco,Térmica,5172.527557999999,False
+2019,NORDESTE,Piauí,Eólica,6489.728424,True
+2019,NORDESTE,Piauí,Hidráulica,519.92924,True
+2019,NORDESTE,Piauí,Nuclear,0.0,False
+2019,NORDESTE,Piauí,Solar fotovoltaica,694.305162,True
+2019,NORDESTE,Piauí,Térmica,60.755429,False
+2019,NORDESTE,Rio Grande do Norte,Eólica,14430.769123,True
+2019,NORDESTE,Rio Grande do Norte,Hidráulica,0.0,True
+2019,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2019,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,264.146086,True
+2019,NORDESTE,Rio Grande do Norte,Térmica,1597.475055,False
+2019,NORDESTE,Sergipe,Eólica,67.847785,True
+2019,NORDESTE,Sergipe,Hidráulica,3936.830509,True
+2019,NORDESTE,Sergipe,Nuclear,0.0,False
+2019,NORDESTE,Sergipe,Solar fotovoltaica,11.063877,True
+2019,NORDESTE,Sergipe,Térmica,170.39965500000002,False
+2019,NORTE,Acre,Eólica,0.0,True
+2019,NORTE,Acre,Hidráulica,0.0,True
+2019,NORTE,Acre,Nuclear,0.0,False
+2019,NORTE,Acre,Solar fotovoltaica,1.842883,True
+2019,NORTE,Acre,Térmica,247.334008,False
+2019,NORTE,Amapá,Eólica,0.0,True
+2019,NORTE,Amapá,Hidráulica,3129.182752,True
+2019,NORTE,Amapá,Nuclear,0.0,False
+2019,NORTE,Amapá,Solar fotovoltaica,7.845915,True
+2019,NORTE,Amapá,Térmica,53.916688,False
+2019,NORTE,Amazonas,Eólica,0.0,True
+2019,NORTE,Amazonas,Hidráulica,1293.243905,True
+2019,NORTE,Amazonas,Nuclear,0.0,False
+2019,NORTE,Amazonas,Solar fotovoltaica,4.172868,True
+2019,NORTE,Amazonas,Térmica,9213.351896999999,False
+2019,NORTE,Pará,Eólica,0.005494,True
+2019,NORTE,Pará,Hidráulica,57229.223552,True
+2019,NORTE,Pará,Nuclear,0.0,False
+2019,NORTE,Pará,Solar fotovoltaica,12.42797,True
+2019,NORTE,Pará,Térmica,1372.337895,False
+2019,NORTE,Rondônia,Eólica,0.0,True
+2019,NORTE,Rondônia,Hidráulica,36158.907893,True
+2019,NORTE,Rondônia,Nuclear,0.0,False
+2019,NORTE,Rondônia,Solar fotovoltaica,4.037451,True
+2019,NORTE,Rondônia,Térmica,2900.314767,False
+2019,NORTE,Roraima,Eólica,0.0,True
+2019,NORTE,Roraima,Hidráulica,0.0,True
+2019,NORTE,Roraima,Nuclear,0.0,False
+2019,NORTE,Roraima,Solar fotovoltaica,0.975185,True
+2019,NORTE,Roraima,Térmica,1086.682804,False
+2019,NORTE,Tocantins,Eólica,0.0,True
+2019,NORTE,Tocantins,Hidráulica,8078.112664,True
+2019,NORTE,Tocantins,Nuclear,0.0,False
+2019,NORTE,Tocantins,Solar fotovoltaica,28.116924,True
+2019,NORTE,Tocantins,Térmica,266.833487,False
+2019,SUDESTE,Espírito Santo,Eólica,0.0,True
+2019,SUDESTE,Espírito Santo,Hidráulica,1310.662739,True
+2019,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2019,SUDESTE,Espírito Santo,Solar fotovoltaica,27.536023,True
+2019,SUDESTE,Espírito Santo,Térmica,8607.618413000002,False
+2019,SUDESTE,Minas Gerais,Eólica,0.268994,True
+2019,SUDESTE,Minas Gerais,Hidráulica,42241.928612,True
+2019,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2019,SUDESTE,Minas Gerais,Solar fotovoltaica,1573.151112,True
+2019,SUDESTE,Minas Gerais,Térmica,9293.558672,False
+2019,SUDESTE,Rio de Janeiro,Eólica,60.832584,True
+2019,SUDESTE,Rio de Janeiro,Hidráulica,5666.271809,True
+2019,SUDESTE,Rio de Janeiro,Nuclear,16128.824302,False
+2019,SUDESTE,Rio de Janeiro,Solar fotovoltaica,65.382117,True
+2019,SUDESTE,Rio de Janeiro,Térmica,34312.328131,False
+2019,SUDESTE,São Paulo,Eólica,0.117149,True
+2019,SUDESTE,São Paulo,Hidráulica,41179.923552,True
+2019,SUDESTE,São Paulo,Nuclear,0.0,False
+2019,SUDESTE,São Paulo,Solar fotovoltaica,629.356117,True
+2019,SUDESTE,São Paulo,Térmica,27490.887211000005,False
+2019,SUL,Paraná,Eólica,20.254146,True
+2019,SUL,Paraná,Hidráulica,76469.669166,True
+2019,SUL,Paraná,Nuclear,0.0,False
+2019,SUL,Paraná,Solar fotovoltaica,176.572151,True
+2019,SUL,Paraná,Térmica,5150.954031,False
+2019,SUL,Rio Grande do Sul,Eólica,5464.632712,True
+2019,SUL,Rio Grande do Sul,Hidráulica,20663.787793,True
+2019,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2019,SUL,Rio Grande do Sul,Solar fotovoltaica,214.179056,True
+2019,SUL,Rio Grande do Sul,Térmica,5303.713548999999,False
+2019,SUL,Santa Catarina,Eólica,367.760188,True
+2019,SUL,Santa Catarina,Hidráulica,17331.423228,True
+2019,SUL,Santa Catarina,Nuclear,0.0,False
+2019,SUL,Santa Catarina,Solar fotovoltaica,102.37603,True
+2019,SUL,Santa Catarina,Térmica,5165.996736,False
+2020,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2020,CENTRO OESTE,Distrito Federal,Hidráulica,105.343327,True
+2020,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2020,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,66.423089,True
+2020,CENTRO OESTE,Distrito Federal,Térmica,3.374794,False
+2020,CENTRO OESTE,Goiás,Eólica,0.0,True
+2020,CENTRO OESTE,Goiás,Hidráulica,24668.065739,True
+2020,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2020,CENTRO OESTE,Goiás,Solar fotovoltaica,259.554483,True
+2020,CENTRO OESTE,Goiás,Térmica,4742.025489999999,False
+2020,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2020,CENTRO OESTE,Mato Grosso,Hidráulica,22089.482395,True
+2020,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2020,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,323.713099,True
+2020,CENTRO OESTE,Mato Grosso,Térmica,2153.7911289999997,False
+2020,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.003386,True
+2020,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,17547.529465,True
+2020,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2020,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,150.468177,True
+2020,CENTRO OESTE,Mato Grosso do Sul,Térmica,7781.4066760000005,False
+2020,NORDESTE,Alagoas,Eólica,0.0,True
+2020,NORDESTE,Alagoas,Hidráulica,12981.530639,True
+2020,NORDESTE,Alagoas,Nuclear,0.0,False
+2020,NORDESTE,Alagoas,Solar fotovoltaica,33.378111,True
+2020,NORDESTE,Alagoas,Térmica,961.0715779999999,False
+2020,NORDESTE,Bahia,Eólica,16765.324256,True
+2020,NORDESTE,Bahia,Hidráulica,14141.983149,True
+2020,NORDESTE,Bahia,Nuclear,0.0,False
+2020,NORDESTE,Bahia,Solar fotovoltaica,1979.159154,True
+2020,NORDESTE,Bahia,Térmica,4968.083758000001,False
+2020,NORDESTE,Ceará,Eólica,6247.052701,True
+2020,NORDESTE,Ceará,Hidráulica,3.540442,True
+2020,NORDESTE,Ceará,Nuclear,0.0,False
+2020,NORDESTE,Ceará,Solar fotovoltaica,624.244567,True
+2020,NORDESTE,Ceará,Térmica,3473.2498659999997,False
+2020,NORDESTE,Maranhão,Eólica,1546.310689,True
+2020,NORDESTE,Maranhão,Hidráulica,2638.93955,True
+2020,NORDESTE,Maranhão,Nuclear,0.0,False
+2020,NORDESTE,Maranhão,Solar fotovoltaica,73.190696,True
+2020,NORDESTE,Maranhão,Térmica,9358.731625999999,False
+2020,NORDESTE,Paraíba,Eólica,524.155111,True
+2020,NORDESTE,Paraíba,Hidráulica,2.803317,True
+2020,NORDESTE,Paraíba,Nuclear,0.0,False
+2020,NORDESTE,Paraíba,Solar fotovoltaica,365.318023,True
+2020,NORDESTE,Paraíba,Térmica,584.64139,False
+2020,NORDESTE,Pernambuco,Eólica,2823.427457,True
+2020,NORDESTE,Pernambuco,Hidráulica,2877.148798,True
+2020,NORDESTE,Pernambuco,Nuclear,0.0,False
+2020,NORDESTE,Pernambuco,Solar fotovoltaica,200.111084,True
+2020,NORDESTE,Pernambuco,Térmica,4229.903138,False
+2020,NORDESTE,Piauí,Eólica,6353.826238,True
+2020,NORDESTE,Piauí,Hidráulica,527.875154,True
+2020,NORDESTE,Piauí,Nuclear,0.0,False
+2020,NORDESTE,Piauí,Solar fotovoltaica,1228.265332,True
+2020,NORDESTE,Piauí,Térmica,61.916669,False
+2020,NORDESTE,Rio Grande do Norte,Eólica,16099.275396000001,True
+2020,NORDESTE,Rio Grande do Norte,Hidráulica,0.409135,True
+2020,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2020,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,369.062539,True
+2020,NORDESTE,Rio Grande do Norte,Térmica,1449.480113,False
+2020,NORDESTE,Sergipe,Eólica,56.262587,True
+2020,NORDESTE,Sergipe,Hidráulica,6873.55962,True
+2020,NORDESTE,Sergipe,Nuclear,0.0,False
+2020,NORDESTE,Sergipe,Solar fotovoltaica,30.641068,True
+2020,NORDESTE,Sergipe,Térmica,1054.218265,False
+2020,NORTE,Acre,Eólica,0.0,True
+2020,NORTE,Acre,Hidráulica,0.0,True
+2020,NORTE,Acre,Nuclear,0.0,False
+2020,NORTE,Acre,Solar fotovoltaica,6.299609,True
+2020,NORTE,Acre,Térmica,250.808581,False
+2020,NORTE,Amapá,Eólica,0.0,True
+2020,NORTE,Amapá,Hidráulica,2576.97678,True
+2020,NORTE,Amapá,Nuclear,0.0,False
+2020,NORTE,Amapá,Solar fotovoltaica,11.870607,True
+2020,NORTE,Amapá,Térmica,56.616652,False
+2020,NORTE,Amazonas,Eólica,0.0,True
+2020,NORTE,Amazonas,Hidráulica,1262.8774,True
+2020,NORTE,Amazonas,Nuclear,0.0,False
+2020,NORTE,Amazonas,Solar fotovoltaica,17.218657,True
+2020,NORTE,Amazonas,Térmica,9601.474059,False
+2020,NORTE,Pará,Eólica,0.011019,True
+2020,NORTE,Pará,Hidráulica,59334.281834,True
+2020,NORTE,Pará,Nuclear,0.0,False
+2020,NORTE,Pará,Solar fotovoltaica,82.774788,True
+2020,NORTE,Pará,Térmica,1356.6859009999998,False
+2020,NORTE,Rondônia,Eólica,0.0,True
+2020,NORTE,Rondônia,Hidráulica,34836.889574,True
+2020,NORTE,Rondônia,Nuclear,0.0,False
+2020,NORTE,Rondônia,Solar fotovoltaica,31.339596,True
+2020,NORTE,Rondônia,Térmica,403.460255,False
+2020,NORTE,Roraima,Eólica,0.0,True
+2020,NORTE,Roraima,Hidráulica,6.439071,True
+2020,NORTE,Roraima,Nuclear,0.0,False
+2020,NORTE,Roraima,Solar fotovoltaica,2.990151,True
+2020,NORTE,Roraima,Térmica,1252.4326680000001,False
+2020,NORTE,Tocantins,Eólica,0.0,True
+2020,NORTE,Tocantins,Hidráulica,10044.415198,True
+2020,NORTE,Tocantins,Nuclear,0.0,False
+2020,NORTE,Tocantins,Solar fotovoltaica,66.8236,True
+2020,NORTE,Tocantins,Térmica,271.94132400000007,False
+2020,SUDESTE,Espírito Santo,Eólica,0.121249,True
+2020,SUDESTE,Espírito Santo,Hidráulica,2325.808562,True
+2020,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2020,SUDESTE,Espírito Santo,Solar fotovoltaica,83.234531,True
+2020,SUDESTE,Espírito Santo,Térmica,9394.29803,False
+2020,SUDESTE,Minas Gerais,Eólica,0.268994,True
+2020,SUDESTE,Minas Gerais,Hidráulica,51385.005303,True
+2020,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2020,SUDESTE,Minas Gerais,Solar fotovoltaica,2127.447362,True
+2020,SUDESTE,Minas Gerais,Térmica,8742.737613000001,False
+2020,SUDESTE,Rio de Janeiro,Eólica,54.128208,True
+2020,SUDESTE,Rio de Janeiro,Hidráulica,6215.089819,True
+2020,SUDESTE,Rio de Janeiro,Nuclear,14052.59817,False
+2020,SUDESTE,Rio de Janeiro,Solar fotovoltaica,176.065198,True
+2020,SUDESTE,Rio de Janeiro,Térmica,32582.677840999997,False
+2020,SUDESTE,São Paulo,Eólica,0.164734,True
+2020,SUDESTE,São Paulo,Hidráulica,40041.902102,True
+2020,SUDESTE,São Paulo,Nuclear,0.0,False
+2020,SUDESTE,São Paulo,Solar fotovoltaica,1310.880177,True
+2020,SUDESTE,São Paulo,Térmica,27889.268530999998,False
+2020,SUL,Paraná,Eólica,20.730006,True
+2020,SUL,Paraná,Hidráulica,59771.502181,True
+2020,SUL,Paraná,Nuclear,0.0,False
+2020,SUL,Paraná,Solar fotovoltaica,368.405333,True
+2020,SUL,Paraná,Térmica,6660.42843,False
+2020,SUL,Rio Grande do Sul,Eólica,6026.167077,True
+2020,SUL,Rio Grande do Sul,Hidráulica,13527.53683,True
+2020,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2020,SUL,Rio Grande do Sul,Solar fotovoltaica,535.193198,True
+2020,SUL,Rio Grande do Sul,Térmica,6013.902088,False
+2020,SUL,Santa Catarina,Eólica,533.477209,True
+2020,SUL,Santa Catarina,Hidráulica,10594.260008,True
+2020,SUL,Santa Catarina,Nuclear,0.0,False
+2020,SUL,Santa Catarina,Solar fotovoltaica,224.269233,True
+2020,SUL,Santa Catarina,Térmica,5232.249046000001,False
+2021,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2021,CENTRO OESTE,Distrito Federal,Hidráulica,80.749212,True
+2021,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2021,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,106.66502,True
+2021,CENTRO OESTE,Distrito Federal,Térmica,4.509146,False
+2021,CENTRO OESTE,Goiás,Eólica,0.0,True
+2021,CENTRO OESTE,Goiás,Hidráulica,17601.318369,True
+2021,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2021,CENTRO OESTE,Goiás,Solar fotovoltaica,479.623319,True
+2021,CENTRO OESTE,Goiás,Térmica,4544.434996,False
+2021,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2021,CENTRO OESTE,Mato Grosso,Hidráulica,20110.495312,True
+2021,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2021,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,636.347581,True
+2021,CENTRO OESTE,Mato Grosso,Térmica,2495.617637,False
+2021,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2021,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,13360.324001,True
+2021,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2021,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,290.132967,True
+2021,CENTRO OESTE,Mato Grosso do Sul,Térmica,9054.455782,False
+2021,NORDESTE,Alagoas,Eólica,0.0,True
+2021,NORDESTE,Alagoas,Hidráulica,9305.208755,True
+2021,NORDESTE,Alagoas,Nuclear,0.0,False
+2021,NORDESTE,Alagoas,Solar fotovoltaica,74.259418,True
+2021,NORDESTE,Alagoas,Térmica,884.404695,False
+2021,NORDESTE,Bahia,Eólica,20849.536898,True
+2021,NORDESTE,Bahia,Hidráulica,10186.448474,True
+2021,NORDESTE,Bahia,Nuclear,0.0,False
+2021,NORDESTE,Bahia,Solar fotovoltaica,2434.888777,True
+2021,NORDESTE,Bahia,Térmica,6987.658915999999,False
+2021,NORDESTE,Ceará,Eólica,8287.153484,True
+2021,NORDESTE,Ceará,Hidráulica,3.540442,True
+2021,NORDESTE,Ceará,Nuclear,0.0,False
+2021,NORDESTE,Ceará,Solar fotovoltaica,1037.353924,True
+2021,NORDESTE,Ceará,Térmica,7276.185647,False
+2021,NORDESTE,Maranhão,Eólica,1781.967202,True
+2021,NORDESTE,Maranhão,Hidráulica,2848.076745,True
+2021,NORDESTE,Maranhão,Nuclear,0.0,False
+2021,NORDESTE,Maranhão,Solar fotovoltaica,182.808879,True
+2021,NORDESTE,Maranhão,Térmica,13603.231366999998,False
+2021,NORDESTE,Paraíba,Eólica,892.442059,True
+2021,NORDESTE,Paraíba,Hidráulica,2.8032,True
+2021,NORDESTE,Paraíba,Nuclear,0.0,False
+2021,NORDESTE,Paraíba,Solar fotovoltaica,476.964227,True
+2021,NORDESTE,Paraíba,Térmica,2026.308244,False
+2021,NORDESTE,Pernambuco,Eólica,2950.644152,True
+2021,NORDESTE,Pernambuco,Hidráulica,2082.307352,True
+2021,NORDESTE,Pernambuco,Nuclear,0.0,False
+2021,NORDESTE,Pernambuco,Solar fotovoltaica,569.622421,True
+2021,NORDESTE,Pernambuco,Térmica,7202.324196,False
+2021,NORDESTE,Piauí,Eólica,8904.347657,True
+2021,NORDESTE,Piauí,Hidráulica,564.670377,True
+2021,NORDESTE,Piauí,Nuclear,0.0,False
+2021,NORDESTE,Piauí,Solar fotovoltaica,1975.129479,True
+2021,NORDESTE,Piauí,Térmica,55.869552,False
+2021,NORDESTE,Rio Grande do Norte,Eólica,22098.840787,True
+2021,NORDESTE,Rio Grande do Norte,Hidráulica,13.911667,True
+2021,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2021,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,473.86666,True
+2021,NORDESTE,Rio Grande do Norte,Térmica,1538.445799,False
+2021,NORDESTE,Sergipe,Eólica,60.957338,True
+2021,NORDESTE,Sergipe,Hidráulica,4948.584103,True
+2021,NORDESTE,Sergipe,Nuclear,0.0,False
+2021,NORDESTE,Sergipe,Solar fotovoltaica,55.094319,True
+2021,NORDESTE,Sergipe,Térmica,4797.559348,False
+2021,NORTE,Acre,Eólica,0.0,True
+2021,NORTE,Acre,Hidráulica,0.0,True
+2021,NORTE,Acre,Nuclear,0.0,False
+2021,NORTE,Acre,Solar fotovoltaica,18.681045,True
+2021,NORTE,Acre,Térmica,246.417018,False
+2021,NORTE,Amapá,Eólica,0.0,True
+2021,NORTE,Amapá,Hidráulica,4115.097181,True
+2021,NORTE,Amapá,Nuclear,0.0,False
+2021,NORTE,Amapá,Solar fotovoltaica,17.365292,True
+2021,NORTE,Amapá,Térmica,55.062661,False
+2021,NORTE,Amazonas,Eólica,0.0,True
+2021,NORTE,Amazonas,Hidráulica,1521.800532,True
+2021,NORTE,Amazonas,Nuclear,0.0,False
+2021,NORTE,Amazonas,Solar fotovoltaica,40.042291,True
+2021,NORTE,Amazonas,Térmica,9767.823009,False
+2021,NORTE,Pará,Eólica,0.023272,True
+2021,NORTE,Pará,Hidráulica,69620.864748,True
+2021,NORTE,Pará,Nuclear,0.0,False
+2021,NORTE,Pará,Solar fotovoltaica,203.038077,True
+2021,NORTE,Pará,Térmica,1305.40905,False
+2021,NORTE,Rondônia,Eólica,0.0,True
+2021,NORTE,Rondônia,Hidráulica,36722.839764,True
+2021,NORTE,Rondônia,Nuclear,0.0,False
+2021,NORTE,Rondônia,Solar fotovoltaica,78.051668,True
+2021,NORTE,Rondônia,Térmica,803.50713,False
+2021,NORTE,Roraima,Eólica,0.0,True
+2021,NORTE,Roraima,Hidráulica,6.439071,True
+2021,NORTE,Roraima,Nuclear,0.0,False
+2021,NORTE,Roraima,Solar fotovoltaica,13.790641,True
+2021,NORTE,Roraima,Térmica,1208.94229,False
+2021,NORTE,Tocantins,Eólica,0.0,True
+2021,NORTE,Tocantins,Hidráulica,10059.46385,True
+2021,NORTE,Tocantins,Nuclear,0.0,False
+2021,NORTE,Tocantins,Solar fotovoltaica,124.105516,True
+2021,NORTE,Tocantins,Térmica,245.06268500000002,False
+2021,SUDESTE,Espírito Santo,Eólica,0.151392,True
+2021,SUDESTE,Espírito Santo,Hidráulica,2157.199757,True
+2021,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2021,SUDESTE,Espírito Santo,Solar fotovoltaica,151.778631,True
+2021,SUDESTE,Espírito Santo,Térmica,10708.621928999999,False
+2021,SUDESTE,Minas Gerais,Eólica,0.230508,True
+2021,SUDESTE,Minas Gerais,Hidráulica,33947.229437,True
+2021,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2021,SUDESTE,Minas Gerais,Solar fotovoltaica,2917.176228,True
+2021,SUDESTE,Minas Gerais,Térmica,10244.423895,False
+2021,SUDESTE,Rio de Janeiro,Eólica,55.259954,True
+2021,SUDESTE,Rio de Janeiro,Hidráulica,5926.603206,True
+2021,SUDESTE,Rio de Janeiro,Nuclear,14704.587598,False
+2021,SUDESTE,Rio de Janeiro,Solar fotovoltaica,330.103785,True
+2021,SUDESTE,Rio de Janeiro,Térmica,45816.230092,False
+2021,SUDESTE,São Paulo,Eólica,0.163741,True
+2021,SUDESTE,São Paulo,Hidráulica,28310.803733,True
+2021,SUDESTE,São Paulo,Nuclear,0.0,False
+2021,SUDESTE,São Paulo,Solar fotovoltaica,2050.662931,True
+2021,SUDESTE,São Paulo,Térmica,27457.534937999997,False
+2021,SUL,Paraná,Eólica,19.743115,True
+2021,SUL,Paraná,Hidráulica,61548.217626,True
+2021,SUL,Paraná,Nuclear,0.0,False
+2021,SUL,Paraná,Solar fotovoltaica,596.671903,True
+2021,SUL,Paraná,Térmica,7440.204412000001,False
+2021,SUL,Rio Grande do Sul,Eólica,5849.699585,True
+2021,SUL,Rio Grande do Sul,Hidráulica,13989.547045,True
+2021,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2021,SUL,Rio Grande do Sul,Solar fotovoltaica,988.805037,True
+2021,SUL,Rio Grande do Sul,Térmica,8211.872456,False
+2021,SUL,Santa Catarina,Eólica,534.813725,True
+2021,SUL,Santa Catarina,Hidráulica,13783.907138,True
+2021,SUL,Santa Catarina,Nuclear,0.0,False
+2021,SUL,Santa Catarina,Solar fotovoltaica,429.250834,True
+2021,SUL,Santa Catarina,Térmica,5852.891913999999,False
+2022,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2022,CENTRO OESTE,Distrito Federal,Hidráulica,71.783615,True
+2022,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2022,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,244.09286,True
+2022,CENTRO OESTE,Distrito Federal,Térmica,1.239435,False
+2022,CENTRO OESTE,Goiás,Eólica,0.0,True
+2022,CENTRO OESTE,Goiás,Hidráulica,20348.017512,True
+2022,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2022,CENTRO OESTE,Goiás,Solar fotovoltaica,828.846368,True
+2022,CENTRO OESTE,Goiás,Térmica,3876.024757,False
+2022,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2022,CENTRO OESTE,Mato Grosso,Hidráulica,21047.035755,True
+2022,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2022,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,1041.303221,True
+2022,CENTRO OESTE,Mato Grosso,Térmica,2114.0165559999996,False
+2022,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2022,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,13943.828752,True
+2022,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2022,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,590.385787,True
+2022,CENTRO OESTE,Mato Grosso do Sul,Térmica,7474.568773999999,False
+2022,NORDESTE,Alagoas,Eólica,0.0,True
+2022,NORDESTE,Alagoas,Hidráulica,14209.083591,True
+2022,NORDESTE,Alagoas,Nuclear,0.0,False
+2022,NORDESTE,Alagoas,Solar fotovoltaica,164.826376,True
+2022,NORDESTE,Alagoas,Térmica,855.993441,False
+2022,NORDESTE,Bahia,Eólica,25317.25942,True
+2022,NORDESTE,Bahia,Hidráulica,15676.407652,True
+2022,NORDESTE,Bahia,Nuclear,0.0,False
+2022,NORDESTE,Bahia,Solar fotovoltaica,3972.871664,True
+2022,NORDESTE,Bahia,Térmica,5401.495858,False
+2022,NORDESTE,Ceará,Eólica,7614.493644,True
+2022,NORDESTE,Ceará,Hidráulica,4.155654,True
+2022,NORDESTE,Ceará,Nuclear,0.0,False
+2022,NORDESTE,Ceará,Solar fotovoltaica,2033.263059,True
+2022,NORDESTE,Ceará,Térmica,221.028334,False
+2022,NORDESTE,Maranhão,Eólica,1561.474912,True
+2022,NORDESTE,Maranhão,Hidráulica,2724.032014,True
+2022,NORDESTE,Maranhão,Nuclear,0.0,False
+2022,NORDESTE,Maranhão,Solar fotovoltaica,396.519669,True
+2022,NORDESTE,Maranhão,Térmica,6456.849260000001,False
+2022,NORDESTE,Paraíba,Eólica,2231.36844,True
+2022,NORDESTE,Paraíba,Hidráulica,4.049088,True
+2022,NORDESTE,Paraíba,Nuclear,0.0,False
+2022,NORDESTE,Paraíba,Solar fotovoltaica,939.990681,True
+2022,NORDESTE,Paraíba,Térmica,307.764965,False
+2022,NORDESTE,Pernambuco,Eólica,3557.921959,True
+2022,NORDESTE,Pernambuco,Hidráulica,3212.202632,True
+2022,NORDESTE,Pernambuco,Nuclear,0.0,False
+2022,NORDESTE,Pernambuco,Solar fotovoltaica,1247.332229,True
+2022,NORDESTE,Pernambuco,Térmica,1416.9167139999997,False
+2022,NORDESTE,Piauí,Eólica,11088.300894,True
+2022,NORDESTE,Piauí,Hidráulica,614.365008,True
+2022,NORDESTE,Piauí,Nuclear,0.0,False
+2022,NORDESTE,Piauí,Solar fotovoltaica,2928.246952,True
+2022,NORDESTE,Piauí,Térmica,52.643615999999994,False
+2022,NORDESTE,Rio Grande do Norte,Eólica,23954.652628,True
+2022,NORDESTE,Rio Grande do Norte,Hidráulica,13.301088,True
+2022,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2022,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,942.159837,True
+2022,NORDESTE,Rio Grande do Norte,Térmica,1021.615625,False
+2022,NORDESTE,Sergipe,Eólica,71.527693,True
+2022,NORDESTE,Sergipe,Hidráulica,7637.34374,True
+2022,NORDESTE,Sergipe,Nuclear,0.0,False
+2022,NORDESTE,Sergipe,Solar fotovoltaica,106.477688,True
+2022,NORDESTE,Sergipe,Térmica,944.176315,False
+2022,NORTE,Acre,Eólica,0.0,True
+2022,NORTE,Acre,Hidráulica,0.0,True
+2022,NORTE,Acre,Nuclear,0.0,False
+2022,NORTE,Acre,Solar fotovoltaica,41.998674,True
+2022,NORTE,Acre,Térmica,260.34542799999997,False
+2022,NORTE,Amapá,Eólica,0.0,True
+2022,NORTE,Amapá,Hidráulica,3789.307666,True
+2022,NORTE,Amapá,Nuclear,0.0,False
+2022,NORTE,Amapá,Solar fotovoltaica,27.30182,True
+2022,NORTE,Amapá,Térmica,18.985597,False
+2022,NORTE,Amazonas,Eólica,0.022285,True
+2022,NORTE,Amazonas,Hidráulica,1468.405567,True
+2022,NORTE,Amazonas,Nuclear,0.0,False
+2022,NORTE,Amazonas,Solar fotovoltaica,77.20105,True
+2022,NORTE,Amazonas,Térmica,7966.309575999999,False
+2022,NORTE,Pará,Eólica,0.020164,True
+2022,NORTE,Pará,Hidráulica,75188.224585,True
+2022,NORTE,Pará,Nuclear,0.0,False
+2022,NORTE,Pará,Solar fotovoltaica,426.918672,True
+2022,NORTE,Pará,Térmica,1098.8833,False
+2022,NORTE,Rondônia,Eólica,0.0,True
+2022,NORTE,Rondônia,Hidráulica,33894.069434,True
+2022,NORTE,Rondônia,Nuclear,0.0,False
+2022,NORTE,Rondônia,Solar fotovoltaica,190.66815,True
+2022,NORTE,Rondônia,Térmica,580.274216,False
+2022,NORTE,Roraima,Eólica,0.0,True
+2022,NORTE,Roraima,Hidráulica,35.603511,True
+2022,NORTE,Roraima,Nuclear,0.0,False
+2022,NORTE,Roraima,Solar fotovoltaica,28.775114,True
+2022,NORTE,Roraima,Térmica,1303.0280469999998,False
+2022,NORTE,Tocantins,Eólica,0.0,True
+2022,NORTE,Tocantins,Hidráulica,10303.485041,True
+2022,NORTE,Tocantins,Nuclear,0.0,False
+2022,NORTE,Tocantins,Solar fotovoltaica,232.189966,True
+2022,NORTE,Tocantins,Térmica,230.728302,False
+2022,SUDESTE,Espírito Santo,Eólica,0.156586,True
+2022,SUDESTE,Espírito Santo,Hidráulica,2559.653336,True
+2022,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2022,SUDESTE,Espírito Santo,Solar fotovoltaica,314.697134,True
+2022,SUDESTE,Espírito Santo,Térmica,8652.746937,False
+2022,SUDESTE,Minas Gerais,Eólica,0.267228,True
+2022,SUDESTE,Minas Gerais,Hidráulica,44654.269124,True
+2022,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2022,SUDESTE,Minas Gerais,Solar fotovoltaica,4982.696786,True
+2022,SUDESTE,Minas Gerais,Térmica,7246.777089,False
+2022,SUDESTE,Rio de Janeiro,Eólica,64.972717,True
+2022,SUDESTE,Rio de Janeiro,Hidráulica,6218.393898,True
+2022,SUDESTE,Rio de Janeiro,Nuclear,14559.013213,False
+2022,SUDESTE,Rio de Janeiro,Solar fotovoltaica,662.612971,True
+2022,SUDESTE,Rio de Janeiro,Térmica,25324.972103,False
+2022,SUDESTE,São Paulo,Eólica,0.138235,True
+2022,SUDESTE,São Paulo,Hidráulica,32286.084235,True
+2022,SUDESTE,São Paulo,Nuclear,0.0,False
+2022,SUDESTE,São Paulo,Solar fotovoltaica,3491.098648,True
+2022,SUDESTE,São Paulo,Térmica,24098.151240999996,False
+2022,SUL,Paraná,Eólica,18.93326,True
+2022,SUL,Paraná,Hidráulica,78119.410491,True
+2022,SUL,Paraná,Nuclear,0.0,False
+2022,SUL,Paraná,Solar fotovoltaica,1668.881537,True
+2022,SUL,Paraná,Térmica,6155.061121,False
+2022,SUL,Rio Grande do Sul,Eólica,5580.99738,True
+2022,SUL,Rio Grande do Sul,Hidráulica,18552.774292,True
+2022,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2022,SUL,Rio Grande do Sul,Solar fotovoltaica,1819.407107,True
+2022,SUL,Rio Grande do Sul,Térmica,5690.158751999999,False
+2022,SUL,Santa Catarina,Eólica,569.061218,True
+2022,SUL,Santa Catarina,Hidráulica,20538.262008,True
+2022,SUL,Santa Catarina,Nuclear,0.0,False
+2022,SUL,Santa Catarina,Solar fotovoltaica,725.697547,True
+2022,SUL,Santa Catarina,Térmica,4960.214696999999,False
+2023,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2023,CENTRO OESTE,Distrito Federal,Hidráulica,65.360119,True
+2023,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2023,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,427.530172,True
+2023,CENTRO OESTE,Distrito Federal,Térmica,0.845299,False
+2023,CENTRO OESTE,Goiás,Eólica,0.009965,True
+2023,CENTRO OESTE,Goiás,Hidráulica,18928.776882,True
+2023,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2023,CENTRO OESTE,Goiás,Solar fotovoltaica,1425.200882,True
+2023,CENTRO OESTE,Goiás,Térmica,3878.6646950000004,False
+2023,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2023,CENTRO OESTE,Mato Grosso,Hidráulica,18263.471736,True
+2023,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2023,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,1704.720863,True
+2023,CENTRO OESTE,Mato Grosso,Térmica,1159.763309,False
+2023,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2023,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,15981.586182,True
+2023,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2023,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,1110.720625,True
+2023,CENTRO OESTE,Mato Grosso do Sul,Térmica,7870.5544,False
+2023,NORDESTE,Alagoas,Eólica,0.0,True
+2023,NORDESTE,Alagoas,Hidráulica,11825.463592,True
+2023,NORDESTE,Alagoas,Nuclear,0.0,False
+2023,NORDESTE,Alagoas,Solar fotovoltaica,325.048899,True
+2023,NORDESTE,Alagoas,Térmica,1067.709738,False
+2023,NORDESTE,Bahia,Eólica,30874.53847,True
+2023,NORDESTE,Bahia,Hidráulica,12916.044449,True
+2023,NORDESTE,Bahia,Nuclear,0.0,False
+2023,NORDESTE,Bahia,Solar fotovoltaica,5714.972778,True
+2023,NORDESTE,Bahia,Térmica,4691.890813999999,False
+2023,NORDESTE,Ceará,Eólica,7776.054611,True
+2023,NORDESTE,Ceará,Hidráulica,0.0,True
+2023,NORDESTE,Ceará,Nuclear,0.0,False
+2023,NORDESTE,Ceará,Solar fotovoltaica,2706.439519,True
+2023,NORDESTE,Ceará,Térmica,453.895824,False
+2023,NORDESTE,Maranhão,Eólica,1823.875554,True
+2023,NORDESTE,Maranhão,Hidráulica,2527.229057,True
+2023,NORDESTE,Maranhão,Nuclear,0.0,False
+2023,NORDESTE,Maranhão,Solar fotovoltaica,649.327271,True
+2023,NORDESTE,Maranhão,Térmica,6869.235326000001,False
+2023,NORDESTE,Paraíba,Eólica,3203.772321,True
+2023,NORDESTE,Paraíba,Hidráulica,0.0,True
+2023,NORDESTE,Paraíba,Nuclear,0.0,False
+2023,NORDESTE,Paraíba,Solar fotovoltaica,1485.403422,True
+2023,NORDESTE,Paraíba,Térmica,383.592323,False
+2023,NORDESTE,Pernambuco,Eólica,4016.861416,True
+2023,NORDESTE,Pernambuco,Hidráulica,2659.816449,True
+2023,NORDESTE,Pernambuco,Nuclear,0.0,False
+2023,NORDESTE,Pernambuco,Solar fotovoltaica,2339.744864,True
+2023,NORDESTE,Pernambuco,Térmica,1677.736736,False
+2023,NORDESTE,Piauí,Eólica,13473.848647,True
+2023,NORDESTE,Piauí,Hidráulica,569.664775,True
+2023,NORDESTE,Piauí,Nuclear,0.0,False
+2023,NORDESTE,Piauí,Solar fotovoltaica,3031.133682,True
+2023,NORDESTE,Piauí,Térmica,86.14553699999999,False
+2023,NORDESTE,Rio Grande do Norte,Eólica,28644.331182,True
+2023,NORDESTE,Rio Grande do Norte,Hidráulica,14.176596,True
+2023,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2023,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,1684.957445,True
+2023,NORDESTE,Rio Grande do Norte,Térmica,777.7632540000001,False
+2023,NORDESTE,Sergipe,Eólica,67.549917,True
+2023,NORDESTE,Sergipe,Hidráulica,6291.152478,True
+2023,NORDESTE,Sergipe,Nuclear,0.0,False
+2023,NORDESTE,Sergipe,Solar fotovoltaica,192.564465,True
+2023,NORDESTE,Sergipe,Térmica,150.551251,False
+2023,NORTE,Acre,Eólica,0.0,True
+2023,NORTE,Acre,Hidráulica,0.0,True
+2023,NORTE,Acre,Nuclear,0.0,False
+2023,NORTE,Acre,Solar fotovoltaica,73.237715,True
+2023,NORTE,Acre,Térmica,242.18926100000002,False
+2023,NORTE,Amapá,Eólica,0.0,True
+2023,NORTE,Amapá,Hidráulica,3110.417524,True
+2023,NORTE,Amapá,Nuclear,0.0,False
+2023,NORTE,Amapá,Solar fotovoltaica,48.173448,True
+2023,NORTE,Amapá,Térmica,57.783559,False
+2023,NORTE,Amazonas,Eólica,0.034614,True
+2023,NORTE,Amazonas,Hidráulica,1410.651964,True
+2023,NORTE,Amazonas,Nuclear,0.0,False
+2023,NORTE,Amazonas,Solar fotovoltaica,143.664645,True
+2023,NORTE,Amazonas,Térmica,8283.69658,False
+2023,NORTE,Pará,Eólica,0.020164,True
+2023,NORTE,Pará,Hidráulica,64006.105801,True
+2023,NORTE,Pará,Nuclear,0.0,False
+2023,NORTE,Pará,Solar fotovoltaica,841.470946,True
+2023,NORTE,Pará,Térmica,1211.301768,False
+2023,NORTE,Rondônia,Eólica,0.0,True
+2023,NORTE,Rondônia,Hidráulica,27326.62047,True
+2023,NORTE,Rondônia,Nuclear,0.0,False
+2023,NORTE,Rondônia,Solar fotovoltaica,322.695098,True
+2023,NORTE,Rondônia,Térmica,32.546321,False
+2023,NORTE,Roraima,Eólica,0.0,True
+2023,NORTE,Roraima,Hidráulica,39.081096,True
+2023,NORTE,Roraima,Nuclear,0.0,False
+2023,NORTE,Roraima,Solar fotovoltaica,45.266645,True
+2023,NORTE,Roraima,Térmica,1435.6238950000002,False
+2023,NORTE,Tocantins,Eólica,0.0,True
+2023,NORTE,Tocantins,Hidráulica,9274.058051,True
+2023,NORTE,Tocantins,Nuclear,0.0,False
+2023,NORTE,Tocantins,Solar fotovoltaica,401.436939,True
+2023,NORTE,Tocantins,Térmica,257.9702,False
+2023,SUDESTE,Espírito Santo,Eólica,0.156586,True
+2023,SUDESTE,Espírito Santo,Hidráulica,2166.862057,True
+2023,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2023,SUDESTE,Espírito Santo,Solar fotovoltaica,637.555083,True
+2023,SUDESTE,Espírito Santo,Térmica,8684.056498999998,False
+2023,SUDESTE,Minas Gerais,Eólica,0.235268,True
+2023,SUDESTE,Minas Gerais,Hidráulica,47192.591237,True
+2023,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2023,SUDESTE,Minas Gerais,Solar fotovoltaica,11362.035626,True
+2023,SUDESTE,Minas Gerais,Térmica,8297.737553,False
+2023,SUDESTE,Rio de Janeiro,Eólica,61.029063,True
+2023,SUDESTE,Rio de Janeiro,Hidráulica,6249.040874,True
+2023,SUDESTE,Rio de Janeiro,Nuclear,14503.722891,False
+2023,SUDESTE,Rio de Janeiro,Solar fotovoltaica,1109.979292,True
+2023,SUDESTE,Rio de Janeiro,Térmica,21899.266883999993,False
+2023,SUDESTE,São Paulo,Eólica,0.238394,True
+2023,SUDESTE,São Paulo,Hidráulica,44303.537617,True
+2023,SUDESTE,São Paulo,Nuclear,0.0,False
+2023,SUDESTE,São Paulo,Solar fotovoltaica,5837.335858,True
+2023,SUDESTE,São Paulo,Térmica,25447.794307,False
+2023,SUL,Paraná,Eólica,17.984013,True
+2023,SUL,Paraná,Hidráulica,88279.24076,True
+2023,SUL,Paraná,Nuclear,0.0,False
+2023,SUL,Paraná,Solar fotovoltaica,2797.306201,True
+2023,SUL,Paraná,Térmica,5353.765869000001,False
+2023,SUL,Rio Grande do Sul,Eólica,5288.022244,True
+2023,SUL,Rio Grande do Sul,Hidráulica,20061.258763,True
+2023,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2023,SUL,Rio Grande do Sul,Solar fotovoltaica,2997.700135,True
+2023,SUL,Rio Grande do Sul,Térmica,5794.161957000001,False
+2023,SUL,Santa Catarina,Eólica,552.15682,True
+2023,SUL,Santa Catarina,Hidráulica,22533.878608,True
+2023,SUL,Santa Catarina,Nuclear,0.0,False
+2023,SUL,Santa Catarina,Solar fotovoltaica,1217.265371,True
+2023,SUL,Santa Catarina,Térmica,5119.577056,False
+2024,CENTRO OESTE,Distrito Federal,Eólica,0.0,True
+2024,CENTRO OESTE,Distrito Federal,Hidráulica,87.672541,True
+2024,CENTRO OESTE,Distrito Federal,Nuclear,0.0,False
+2024,CENTRO OESTE,Distrito Federal,Solar fotovoltaica,582.010014,True
+2024,CENTRO OESTE,Distrito Federal,Térmica,2.087049,False
+2024,CENTRO OESTE,Goiás,Eólica,0.038614,True
+2024,CENTRO OESTE,Goiás,Hidráulica,27144.155604,True
+2024,CENTRO OESTE,Goiás,Nuclear,0.0,False
+2024,CENTRO OESTE,Goiás,Solar fotovoltaica,1981.061391,True
+2024,CENTRO OESTE,Goiás,Térmica,4039.6415150000003,False
+2024,CENTRO OESTE,Mato Grosso,Eólica,0.0,True
+2024,CENTRO OESTE,Mato Grosso,Hidráulica,18138.069999,True
+2024,CENTRO OESTE,Mato Grosso,Nuclear,0.0,False
+2024,CENTRO OESTE,Mato Grosso,Solar fotovoltaica,2462.645866,True
+2024,CENTRO OESTE,Mato Grosso,Térmica,1201.592307,False
+2024,CENTRO OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2024,CENTRO OESTE,Mato Grosso do Sul,Hidráulica,15493.685829,True
+2024,CENTRO OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2024,CENTRO OESTE,Mato Grosso do Sul,Solar fotovoltaica,1617.65089,True
+2024,CENTRO OESTE,Mato Grosso do Sul,Térmica,8060.785390999999,False
+2024,NORDESTE,Alagoas,Eólica,0.0,True
+2024,NORDESTE,Alagoas,Hidráulica,10551.443001,True
+2024,NORDESTE,Alagoas,Nuclear,0.0,False
+2024,NORDESTE,Alagoas,Solar fotovoltaica,516.477178,True
+2024,NORDESTE,Alagoas,Térmica,1102.868098,False
+2024,NORDESTE,Bahia,Eólica,36520.450379,True
+2024,NORDESTE,Bahia,Hidráulica,11779.514635,True
+2024,NORDESTE,Bahia,Nuclear,0.0,False
+2024,NORDESTE,Bahia,Solar fotovoltaica,6738.74419,True
+2024,NORDESTE,Bahia,Térmica,4066.6954560000004,False
+2024,NORDESTE,Ceará,Eólica,7288.378775,True
+2024,NORDESTE,Ceará,Hidráulica,0.0,True
+2024,NORDESTE,Ceará,Nuclear,0.0,False
+2024,NORDESTE,Ceará,Solar fotovoltaica,3830.874853,True
+2024,NORDESTE,Ceará,Térmica,3074.776186,False
+2024,NORDESTE,Maranhão,Eólica,1802.644306,True
+2024,NORDESTE,Maranhão,Hidráulica,2938.738618,True
+2024,NORDESTE,Maranhão,Nuclear,0.0,False
+2024,NORDESTE,Maranhão,Solar fotovoltaica,879.269364,True
+2024,NORDESTE,Maranhão,Térmica,10079.134062000001,False
+2024,NORDESTE,Paraíba,Eólica,4049.213691,True
+2024,NORDESTE,Paraíba,Hidráulica,4e-06,True
+2024,NORDESTE,Paraíba,Nuclear,0.0,False
+2024,NORDESTE,Paraíba,Solar fotovoltaica,1976.105792,True
+2024,NORDESTE,Paraíba,Térmica,366.26169,False
+2024,NORDESTE,Pernambuco,Eólica,4269.865759,True
+2024,NORDESTE,Pernambuco,Hidráulica,2358.499369,True
+2024,NORDESTE,Pernambuco,Nuclear,0.0,False
+2024,NORDESTE,Pernambuco,Solar fotovoltaica,3863.289673,True
+2024,NORDESTE,Pernambuco,Térmica,1797.831497,False
+2024,NORDESTE,Piauí,Eólica,15897.989298,True
+2024,NORDESTE,Piauí,Hidráulica,556.236904,True
+2024,NORDESTE,Piauí,Nuclear,0.0,False
+2024,NORDESTE,Piauí,Solar fotovoltaica,4189.77397,True
+2024,NORDESTE,Piauí,Térmica,86.98025200000001,False
+2024,NORDESTE,Rio Grande do Norte,Eólica,31189.657602,True
+2024,NORDESTE,Rio Grande do Norte,Hidráulica,13.232182,True
+2024,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2024,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,3439.438198,True
+2024,NORDESTE,Rio Grande do Norte,Térmica,307.260793,False
+2024,NORDESTE,Sergipe,Eólica,58.080887,True
+2024,NORDESTE,Sergipe,Hidráulica,5601.94333,True
+2024,NORDESTE,Sergipe,Nuclear,0.0,False
+2024,NORDESTE,Sergipe,Solar fotovoltaica,265.469392,True
+2024,NORDESTE,Sergipe,Térmica,309.09770399999996,False
+2024,NORTE,Acre,Eólica,0.0,True
+2024,NORTE,Acre,Hidráulica,0.0,True
+2024,NORTE,Acre,Nuclear,0.0,False
+2024,NORTE,Acre,Solar fotovoltaica,108.832702,True
+2024,NORTE,Acre,Térmica,233.397023,False
+2024,NORTE,Amapá,Eólica,0.0,True
+2024,NORTE,Amapá,Hidráulica,2990.848438,True
+2024,NORTE,Amapá,Nuclear,0.0,False
+2024,NORTE,Amapá,Solar fotovoltaica,92.497797,True
+2024,NORTE,Amapá,Térmica,61.489123000000006,False
+2024,NORTE,Amazonas,Eólica,0.0,True
+2024,NORTE,Amazonas,Hidráulica,799.801943,True
+2024,NORTE,Amazonas,Nuclear,0.0,False
+2024,NORTE,Amazonas,Solar fotovoltaica,213.786796,True
+2024,NORTE,Amazonas,Térmica,9267.990593999999,False
+2024,NORTE,Pará,Eólica,0.028429,True
+2024,NORTE,Pará,Hidráulica,55554.605141,True
+2024,NORTE,Pará,Nuclear,0.0,False
+2024,NORTE,Pará,Solar fotovoltaica,1237.179393,True
+2024,NORTE,Pará,Térmica,1185.1008849999998,False
+2024,NORTE,Rondônia,Eólica,0.0,True
+2024,NORTE,Rondônia,Hidráulica,30050.656447,True
+2024,NORTE,Rondônia,Nuclear,0.0,False
+2024,NORTE,Rondônia,Solar fotovoltaica,468.807362,True
+2024,NORTE,Rondônia,Térmica,47.247213,False
+2024,NORTE,Roraima,Eólica,0.0,True
+2024,NORTE,Roraima,Hidráulica,32.09801,True
+2024,NORTE,Roraima,Nuclear,0.0,False
+2024,NORTE,Roraima,Solar fotovoltaica,81.158338,True
+2024,NORTE,Roraima,Térmica,1553.72476,False
+2024,NORTE,Tocantins,Eólica,0.0,True
+2024,NORTE,Tocantins,Hidráulica,12004.519729,True
+2024,NORTE,Tocantins,Nuclear,0.0,False
+2024,NORTE,Tocantins,Solar fotovoltaica,546.39429,True
+2024,NORTE,Tocantins,Térmica,265.718425,False
+2024,SUDESTE,Espírito Santo,Eólica,0.126713,True
+2024,SUDESTE,Espírito Santo,Hidráulica,2126.95896,True
+2024,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2024,SUDESTE,Espírito Santo,Solar fotovoltaica,988.912492,True
+2024,SUDESTE,Espírito Santo,Térmica,7065.645515,False
+2024,SUDESTE,Minas Gerais,Eólica,0.258468,True
+2024,SUDESTE,Minas Gerais,Hidráulica,48350.088988,True
+2024,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2024,SUDESTE,Minas Gerais,Solar fotovoltaica,16433.183226,True
+2024,SUDESTE,Minas Gerais,Térmica,8694.475437000001,False
+2024,SUDESTE,Rio de Janeiro,Eólica,53.515338,True
+2024,SUDESTE,Rio de Janeiro,Hidráulica,6332.026752,True
+2024,SUDESTE,Rio de Janeiro,Nuclear,15766.83702,False
+2024,SUDESTE,Rio de Janeiro,Solar fotovoltaica,1475.534374,True
+2024,SUDESTE,Rio de Janeiro,Térmica,27515.854128,False
+2024,SUDESTE,São Paulo,Eólica,0.257359,True
+2024,SUDESTE,São Paulo,Hidráulica,36237.739699,True
+2024,SUDESTE,São Paulo,Nuclear,0.0,False
+2024,SUDESTE,São Paulo,Solar fotovoltaica,7697.732253,True
+2024,SUDESTE,São Paulo,Térmica,27876.019495999997,False
+2024,SUL,Paraná,Eólica,20.590363,True
+2024,SUL,Paraná,Hidráulica,80047.845312,True
+2024,SUL,Paraná,Nuclear,0.0,False
+2024,SUL,Paraná,Solar fotovoltaica,3712.27676,True
+2024,SUL,Paraná,Térmica,6230.523158999999,False
+2024,SUL,Rio Grande do Sul,Eólica,5885.715202,True
+2024,SUL,Rio Grande do Sul,Hidráulica,25399.657609,True
+2024,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2024,SUL,Rio Grande do Sul,Solar fotovoltaica,3672.281382,True
+2024,SUL,Rio Grande do Sul,Térmica,5902.488648,False
+2024,SUL,Santa Catarina,Eólica,617.220586,True
+2024,SUL,Santa Catarina,Hidráulica,27209.177188,True
+2024,SUL,Santa Catarina,Nuclear,0.0,False
+2024,SUL,Santa Catarina,Solar fotovoltaica,1593.313793,True
+2024,SUL,Santa Catarina,Térmica,5056.016149,False
+2025,CENTRO-OESTE,Distrito Federal,Eólica,0.0,True
+2025,CENTRO-OESTE,Distrito Federal,Hidráulica,78.526552995,True
+2025,CENTRO-OESTE,Distrito Federal,Nuclear,0.0,False
+2025,CENTRO-OESTE,Distrito Federal,Solar fotovoltaica,654.47956344,True
+2025,CENTRO-OESTE,Distrito Federal,Térmica,2.084733708,False
+2025,CENTRO-OESTE,Goiás,Eólica,0.056480681553,True
+2025,CENTRO-OESTE,Goiás,Hidráulica,23456.731978,True
+2025,CENTRO-OESTE,Goiás,Nuclear,0.0,False
+2025,CENTRO-OESTE,Goiás,Solar fotovoltaica,2829.453186,True
+2025,CENTRO-OESTE,Goiás,Térmica,4208.9375502,False
+2025,CENTRO-OESTE,Mato Grosso,Eólica,0.0,True
+2025,CENTRO-OESTE,Mato Grosso,Hidráulica,21581.699375,True
+2025,CENTRO-OESTE,Mato Grosso,Nuclear,0.0,False
+2025,CENTRO-OESTE,Mato Grosso,Solar fotovoltaica,3269.3042446,True
+2025,CENTRO-OESTE,Mato Grosso,Térmica,1189.3489564,False
+2025,CENTRO-OESTE,Mato Grosso do Sul,Eólica,0.0,True
+2025,CENTRO-OESTE,Mato Grosso do Sul,Hidráulica,15701.159063,True
+2025,CENTRO-OESTE,Mato Grosso do Sul,Nuclear,0.0,False
+2025,CENTRO-OESTE,Mato Grosso do Sul,Solar fotovoltaica,2102.7825008,True
+2025,CENTRO-OESTE,Mato Grosso do Sul,Térmica,11212.482382,False
+2025,NORDESTE,Alagoas,Eólica,0.028338634804,True
+2025,NORDESTE,Alagoas,Hidráulica,9533.2039452,True
+2025,NORDESTE,Alagoas,Nuclear,0.0,False
+2025,NORDESTE,Alagoas,Solar fotovoltaica,753.18918679,True
+2025,NORDESTE,Alagoas,Térmica,976.06033092,False
+2025,NORDESTE,Bahia,Eólica,41855.388237,True
+2025,NORDESTE,Bahia,Hidráulica,10162.295601,True
+2025,NORDESTE,Bahia,Nuclear,0.0,False
+2025,NORDESTE,Bahia,Solar fotovoltaica,7402.001973,True
+2025,NORDESTE,Bahia,Térmica,4025.9186084,False
+2025,NORDESTE,Ceará,Eólica,6970.9122297,True
+2025,NORDESTE,Ceará,Hidráulica,0.0,True
+2025,NORDESTE,Ceará,Nuclear,0.0,False
+2025,NORDESTE,Ceará,Solar fotovoltaica,5076.0277538,True
+2025,NORDESTE,Ceará,Térmica,3077.0626134,False
+2025,NORDESTE,Maranhão,Eólica,1860.7556835,True
+2025,NORDESTE,Maranhão,Hidráulica,2404.8212981,True
+2025,NORDESTE,Maranhão,Nuclear,0.0,False
+2025,NORDESTE,Maranhão,Solar fotovoltaica,1142.3322503,True
+2025,NORDESTE,Maranhão,Térmica,11338.851867,False
+2025,NORDESTE,Paraíba,Eólica,5661.8634244,True
+2025,NORDESTE,Paraíba,Hidráulica,0.002049668,True
+2025,NORDESTE,Paraíba,Nuclear,0.0,False
+2025,NORDESTE,Paraíba,Solar fotovoltaica,2151.6252548,True
+2025,NORDESTE,Paraíba,Térmica,321.16304096,False
+2025,NORDESTE,Pernambuco,Eólica,4193.9619811,True
+2025,NORDESTE,Pernambuco,Hidráulica,2127.5085542,True
+2025,NORDESTE,Pernambuco,Nuclear,0.0,False
+2025,NORDESTE,Pernambuco,Solar fotovoltaica,4308.1859178,True
+2025,NORDESTE,Pernambuco,Térmica,1484.6764885,False
+2025,NORDESTE,Piauí,Eólica,16953.894175,True
+2025,NORDESTE,Piauí,Hidráulica,538.66123764,True
+2025,NORDESTE,Piauí,Nuclear,0.0,False
+2025,NORDESTE,Piauí,Solar fotovoltaica,4726.44145,True
+2025,NORDESTE,Piauí,Térmica,70.042254617,False
+2025,NORDESTE,Rio Grande do Norte,Eólica,32638.827421,True
+2025,NORDESTE,Rio Grande do Norte,Hidráulica,9.86722632,True
+2025,NORDESTE,Rio Grande do Norte,Nuclear,0.0,False
+2025,NORDESTE,Rio Grande do Norte,Solar fotovoltaica,3988.2949557,True
+2025,NORDESTE,Rio Grande do Norte,Térmica,272.53108068,False
+2025,NORDESTE,Sergipe,Eólica,73.486121074,True
+2025,NORDESTE,Sergipe,Hidráulica,5041.639994,True
+2025,NORDESTE,Sergipe,Nuclear,0.0,False
+2025,NORDESTE,Sergipe,Solar fotovoltaica,361.23292541,True
+2025,NORDESTE,Sergipe,Térmica,1935.7920287,False
+2025,NORTE,Acre,Eólica,0.0,True
+2025,NORTE,Acre,Hidráulica,0.0,True
+2025,NORTE,Acre,Nuclear,0.0,False
+2025,NORTE,Acre,Solar fotovoltaica,167.33309619,True
+2025,NORTE,Acre,Térmica,36.334998083,False
+2025,NORTE,Amapá,Eólica,0.0,True
+2025,NORTE,Amapá,Hidráulica,3309.9432427,True
+2025,NORTE,Amapá,Nuclear,0.0,False
+2025,NORTE,Amapá,Solar fotovoltaica,141.0064812,True
+2025,NORTE,Amapá,Térmica,62.641617232,False
+2025,NORTE,Amazonas,Eólica,0.0,True
+2025,NORTE,Amazonas,Hidráulica,1045.2079688,True
+2025,NORTE,Amazonas,Nuclear,0.0,False
+2025,NORTE,Amazonas,Solar fotovoltaica,287.25542114,True
+2025,NORTE,Amazonas,Térmica,9940.9027688,False
+2025,NORTE,Pará,Eólica,0.15279979704,True
+2025,NORTE,Pará,Hidráulica,61729.020553,True
+2025,NORTE,Pará,Nuclear,0.0,False
+2025,NORTE,Pará,Solar fotovoltaica,1666.4697723,True
+2025,NORTE,Pará,Térmica,1548.6422089,False
+2025,NORTE,Rondônia,Eólica,0.0,True
+2025,NORTE,Rondônia,Hidráulica,34977.791347,True
+2025,NORTE,Rondônia,Nuclear,0.0,False
+2025,NORTE,Rondônia,Solar fotovoltaica,679.30363021,True
+2025,NORTE,Rondônia,Térmica,45.548796459,False
+2025,NORTE,Roraima,Eólica,0.0,True
+2025,NORTE,Roraima,Hidráulica,8.829819336,True
+2025,NORTE,Roraima,Nuclear,0.0,False
+2025,NORTE,Roraima,Solar fotovoltaica,131.48959178,True
+2025,NORTE,Roraima,Térmica,922.65174742,False
+2025,NORTE,Tocantins ,Eólica,0.0,True
+2025,NORTE,Tocantins ,Hidráulica,8971.1614302,True
+2025,NORTE,Tocantins ,Nuclear,0.0,False
+2025,NORTE,Tocantins ,Solar fotovoltaica,734.90570927,True
+2025,NORTE,Tocantins ,Térmica,235.81821232,False
+2025,SUDESTE,Espírito Santo,Eólica,0.14203562259,True
+2025,SUDESTE,Espírito Santo,Hidráulica,1713.01792,True
+2025,SUDESTE,Espírito Santo,Nuclear,0.0,False
+2025,SUDESTE,Espírito Santo,Solar fotovoltaica,1433.1923229,True
+2025,SUDESTE,Espírito Santo,Térmica,8850.8185009,False
+2025,SUDESTE,Minas Gerais,Eólica,0.26183361098,True
+2025,SUDESTE,Minas Gerais,Hidráulica,42181.163277,True
+2025,SUDESTE,Minas Gerais,Nuclear,0.0,False
+2025,SUDESTE,Minas Gerais,Solar fotovoltaica,21048.220488,True
+2025,SUDESTE,Minas Gerais,Térmica,8763.525855,False
+2025,SUDESTE,Rio de Janeiro,Eólica,56.92375895,True
+2025,SUDESTE,Rio de Janeiro,Hidráulica,5451.5810292,True
+2025,SUDESTE,Rio de Janeiro,Nuclear,15834.116232,False
+2025,SUDESTE,Rio de Janeiro,Solar fotovoltaica,1951.7385681,True
+2025,SUDESTE,Rio de Janeiro,Térmica,35903.29812,False
+2025,SUDESTE,São Paulo,Eólica,0.26349937226,True
+2025,SUDESTE,São Paulo,Hidráulica,36230.628309,True
+2025,SUDESTE,São Paulo,Nuclear,0.0,False
+2025,SUDESTE,São Paulo,Solar fotovoltaica,9774.6213493,True
+2025,SUDESTE,São Paulo,Térmica,29122.440705,False
+2025,SUL,Paraná,Eólica,18.514498344,True
+2025,SUL,Paraná,Hidráulica,77744.692314,True
+2025,SUL,Paraná,Nuclear,0.0,False
+2025,SUL,Paraná,Solar fotovoltaica,4901.7843814,True
+2025,SUL,Paraná,Térmica,6689.1672617,False
+2025,SUL,Rio Grande do Sul,Eólica,5665.2495676,True
+2025,SUL,Rio Grande do Sul,Hidráulica,17822.381593,True
+2025,SUL,Rio Grande do Sul,Nuclear,0.0,False
+2025,SUL,Rio Grande do Sul,Solar fotovoltaica,4332.9043539,True
+2025,SUL,Rio Grande do Sul,Térmica,6529.0865658,False
+2025,SUL,Santa Catarina,Eólica,537.58923133,True
+2025,SUL,Santa Catarina,Hidráulica,19593.914144,True
+2025,SUL,Santa Catarina,Nuclear,0.0,False
+2025,SUL,Santa Catarina,Solar fotovoltaica,2124.9388487,True
+2025,SUL,Santa Catarina,Térmica,5251.7315386,False
