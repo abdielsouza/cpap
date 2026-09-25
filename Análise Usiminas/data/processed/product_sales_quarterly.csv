@@ -1,0 +1,555 @@
+period,product,thousand_tons
+1T17,Chapas Grossas,112.0
+2T17,Chapas Grossas,126.0
+3T17,Chapas Grossas,131.0
+4T17,Chapas Grossas,112.0
+1T18,Chapas Grossas,111.0
+2T18,Chapas Grossas,98.0
+3T18,Chapas Grossas,149.0
+4T18,Chapas Grossas,113.0
+1T19,Chapas Grossas,117.0
+2T19,Chapas Grossas,112.0
+3T19,Chapas Grossas,129.0
+4T19,Chapas Grossas,96.0
+1T20,Chapas Grossas,108.0
+2T20,Chapas Grossas,80.0
+3T20,Chapas Grossas,87.0
+4T20,Chapas Grossas,90.0
+1T21,Chapas Grossas,138.0
+2T21,Chapas Grossas,124.452
+3T21,Chapas Grossas,121.16300000000001
+4T21,Chapas Grossas,100.911
+1T22,Chapas Grossas,111.765448
+2T22,Chapas Grossas,117.90556
+3T22,Chapas Grossas,170.1594500000001
+4T22,Chapas Grossas,186.463515000001
+1T23,Chapas Grossas,142.779297000004
+2T23,Chapas Grossas,104.0927359999992
+3T23,Chapas Grossas,94.00107600000021
+4T23,Chapas Grossas,177.971064000001
+1T24,Chapas Grossas,156.10084997797435
+2T24,Chapas Grossas,144.536307000001
+3T24,Chapas Grossas,130.71955599999998
+4T24,Chapas Grossas,127.12620430270059
+1T25,Chapas Grossas,125.53771500000003
+2T25,Chapas Grossas,142.82659700000002
+3T25,Chapas Grossas,130.392201
+4T25,Chapas Grossas,135.94773999999998
+1T26,Chapas Grossas,111.633369
+1T17,Laminados a Quente,266.0
+2T17,Laminados a Quente,288.0
+3T17,Laminados a Quente,299.0
+4T17,Laminados a Quente,286.0
+1T18,Laminados a Quente,338.0
+2T18,Laminados a Quente,302.0
+3T18,Laminados a Quente,320.0
+4T18,Laminados a Quente,312.0
+1T19,Laminados a Quente,259.0
+2T19,Laminados a Quente,340.0
+3T19,Laminados a Quente,325.0
+4T19,Laminados a Quente,322.0
+1T20,Laminados a Quente,278.0
+2T20,Laminados a Quente,185.0
+3T20,Laminados a Quente,307.0
+4T20,Laminados a Quente,423.0
+1T21,Laminados a Quente,438.0
+2T21,Laminados a Quente,484.813
+3T21,Laminados a Quente,405.188
+4T21,Laminados a Quente,366.983
+1T22,Laminados a Quente,405.919141
+2T22,Laminados a Quente,424.016653
+3T22,Laminados a Quente,374.661424
+4T22,Laminados a Quente,319.267374
+1T23,Laminados a Quente,382.819988
+2T23,Laminados a Quente,350.015124999999
+3T23,Laminados a Quente,350.846871
+4T23,Laminados a Quente,317.6355176509448
+1T24,Laminados a Quente,342.77959994983894
+2T24,Laminados a Quente,361.4507769097588
+3T24,Laminados a Quente,392.632378999999
+4T24,Laminados a Quente,362.20829986936604
+1T25,Laminados a Quente,392.6608892041798
+2T25,Laminados a Quente,374.92619
+3T25,Laminados a Quente,364.320626
+4T25,Laminados a Quente,373.807545
+1T26,Laminados a Quente,330.29589630000004
+1T17,Laminados a Frio,296.0
+2T17,Laminados a Frio,308.0
+3T17,Laminados a Frio,311.0
+4T17,Laminados a Frio,404.0
+1T18,Laminados a Frio,368.0
+2T18,Laminados a Frio,320.0
+3T18,Laminados a Frio,329.0
+4T18,Laminados a Frio,324.0
+1T19,Laminados a Frio,353.0
+2T19,Laminados a Frio,317.0
+3T19,Laminados a Frio,277.0
+4T19,Laminados a Frio,290.0
+1T20,Laminados a Frio,338.0
+2T20,Laminados a Frio,163.0
+3T20,Laminados a Frio,240.0
+4T20,Laminados a Frio,319.0
+1T21,Laminados a Frio,373.0
+2T21,Laminados a Frio,390.146
+3T21,Laminados a Frio,356.584
+4T21,Laminados a Frio,293.214
+1T22,Laminados a Frio,281.33656299999996
+2T22,Laminados a Frio,255.13350499999999
+3T22,Laminados a Frio,231.97392
+4T22,Laminados a Frio,198.13757
+1T23,Laminados a Frio,217.174950000001
+2T23,Laminados a Frio,218.93813999999904
+3T23,Laminados a Frio,241.28584200000003
+4T23,Laminados a Frio,225.88904994966876
+1T24,Laminados a Frio,270.94408116464666
+2T24,Laminados a Frio,247.09488321537307
+3T24,Laminados a Frio,286.45125399999904
+4T24,Laminados a Frio,268.3984658279334
+1T25,Laminados a Frio,262.2611608302291
+2T25,Laminados a Frio,264.907587
+3T25,Laminados a Frio,295.406472
+4T25,Laminados a Frio,269.751267
+1T26,Laminados a Frio,259.3937184
+1T17,Galvanizados,232.0
+2T17,Galvanizados,257.0
+3T17,Galvanizados,264.0
+4T17,Galvanizados,276.0
+1T18,Galvanizados,260.0
+2T18,Galvanizados,253.0
+3T18,Galvanizados,301.0
+4T18,Galvanizados,271.0
+1T19,Galvanizados,269.0
+2T19,Galvanizados,270.0
+3T19,Galvanizados,282.0
+4T19,Galvanizados,286.0
+1T20,Galvanizados,300.0
+2T20,Galvanizados,154.0
+3T20,Galvanizados,284.0
+4T20,Galvanizados,288.0
+1T21,Galvanizados,295.0
+2T21,Galvanizados,302.787
+3T21,Galvanizados,298.036
+4T21,Galvanizados,262.973
+1T22,Galvanizados,319.15868
+2T22,Galvanizados,283.846565
+3T22,Galvanizados,260.674012
+4T22,Galvanizados,232.267485
+1T23,Galvanizados,255.213719999999
+2T23,Galvanizados,278.502243999999
+3T23,Galvanizados,287.54269100000005
+4T23,Galvanizados,269.64233439937937
+1T24,Galvanizados,260.4495289075401
+2T24,Galvanizados,282.34390687486814
+3T24,Galvanizados,306.7928879999999
+4T24,Galvanizados,289.66867800000017
+1T25,Galvanizados,298.9971949655913
+2T25,Galvanizados,285.961859
+3T25,Galvanizados,301.561705
+4T25,Galvanizados,287.602087
+1T26,Galvanizados,294.2727554999999
+1T17,Placas,23.0
+2T17,Placas,10.0
+3T17,Placas,11.0
+4T17,Placas,12.0
+1T18,Placas,12.0
+2T18,Placas,4.0
+3T18,Placas,6.0
+4T18,Placas,5.0
+1T19,Placas,5.0
+2T19,Placas,20.0
+3T19,Placas,19.0
+4T19,Placas,16.0
+1T20,Placas,24.0
+2T20,Placas,25.0
+3T20,Placas,16.0
+4T20,Placas,13.0
+1T21,Placas,11.0
+2T21,Placas,12.542
+3T21,Placas,8.487
+4T21,Placas,40.076
+1T22,Placas,16.545351
+2T22,Placas,7.149948
+3T22,Placas,9.190557
+4T22,Placas,27.271394
+1T23,Placas,36.59509
+2T23,Placas,19.684562000000003
+3T23,Placas,47.369702
+4T23,Placas,9.0
+1T24,Placas,6.7938600000000005
+2T24,Placas,6.281471
+3T24,Placas,9.0
+4T24,Placas,10.028521000000005
+1T25,Placas,13.732304999999998
+2T25,Placas,10.418408
+3T25,Placas,11.947338
+4T25,Placas,13.881952
+1T26,Placas,11.045183000000002
+1T17,Chapas Grossas,107.0
+2T17,Chapas Grossas,118.0
+3T17,Chapas Grossas,114.0
+4T17,Chapas Grossas,95.0
+1T18,Chapas Grossas,103.0
+2T18,Chapas Grossas,90.0
+3T18,Chapas Grossas,117.0
+4T18,Chapas Grossas,106.0
+1T19,Chapas Grossas,94.0
+2T19,Chapas Grossas,100.0
+3T19,Chapas Grossas,120.0
+4T19,Chapas Grossas,88.0
+1T20,Chapas Grossas,94.0
+2T20,Chapas Grossas,68.0
+3T20,Chapas Grossas,71.0
+4T20,Chapas Grossas,79.0
+1T21,Chapas Grossas,122.0
+2T21,Chapas Grossas,116.831
+3T21,Chapas Grossas,111.608
+4T21,Chapas Grossas,91.14
+1T22,Chapas Grossas,93.313
+2T22,Chapas Grossas,105.558133
+3T22,Chapas Grossas,125.404715
+4T22,Chapas Grossas,139.72314699999998
+1T23,Chapas Grossas,119.238921000004
+2T23,Chapas Grossas,88.7017129999992
+3T23,Chapas Grossas,74.7174360000002
+4T23,Chapas Grossas,127.97106400000101
+1T24,Chapas Grossas,149.84666111871334
+2T24,Chapas Grossas,134.92182300000098
+3T24,Chapas Grossas,116.04021799999998
+4T24,Chapas Grossas,112.27396430270059
+1T25,Chapas Grossas,92.91666599999994
+2T25,Chapas Grossas,103.925397
+3T25,Chapas Grossas,107.029167
+4T25,Chapas Grossas,123.290487
+1T26,Chapas Grossas,102.13503
+1T17,Laminados a Quente,256.0
+2T17,Laminados a Quente,273.0
+3T17,Laminados a Quente,280.0
+4T17,Laminados a Quente,276.0
+1T18,Laminados a Quente,304.0
+2T18,Laminados a Quente,285.0
+3T18,Laminados a Quente,298.0
+4T18,Laminados a Quente,299.0
+1T19,Laminados a Quente,251.0
+2T19,Laminados a Quente,330.0
+3T19,Laminados a Quente,310.0
+4T19,Laminados a Quente,311.0
+1T20,Laminados a Quente,266.0
+2T20,Laminados a Quente,171.0
+3T20,Laminados a Quente,289.0
+4T20,Laminados a Quente,420.0
+1T21,Laminados a Quente,433.0
+2T21,Laminados a Quente,483.395
+3T21,Laminados a Quente,389.736
+4T21,Laminados a Quente,293.737
+1T22,Laminados a Quente,314.727124
+2T22,Laminados a Quente,375.022718
+3T22,Laminados a Quente,369.09075
+4T22,Laminados a Quente,315.328257
+1T23,Laminados a Quente,356.011591
+2T23,Laminados a Quente,343.53330099999897
+3T23,Laminados a Quente,346.996097
+4T23,Laminados a Quente,302.6355176509448
+1T24,Laminados a Quente,319.7948858346139
+2T24,Laminados a Quente,350.4552459097588
+3T24,Laminados a Quente,390.737570999999
+4T24,Laminados a Quente,332.61787986936605
+1T25,Laminados a Quente,384.7872912041798
+2T25,Laminados a Quente,362.572488
+3T25,Laminados a Quente,358.45813799999996
+4T25,Laminados a Quente,328.05115500000005
+1T26,Laminados a Quente,327.0314753
+1T17,Laminados a Frio,242.0
+2T17,Laminados a Frio,238.0
+3T17,Laminados a Frio,253.0
+4T17,Laminados a Frio,268.0
+1T18,Laminados a Frio,283.0
+2T18,Laminados a Frio,230.0
+3T18,Laminados a Frio,295.0
+4T18,Laminados a Frio,266.0
+1T19,Laminados a Frio,296.0
+2T19,Laminados a Frio,257.0
+3T19,Laminados a Frio,260.0
+4T19,Laminados a Frio,266.0
+1T20,Laminados a Frio,259.0
+2T20,Laminados a Frio,140.0
+3T20,Laminados a Frio,211.0
+4T20,Laminados a Frio,311.0
+1T21,Laminados a Frio,335.0
+2T21,Laminados a Frio,373.737
+3T21,Laminados a Frio,316.302
+4T21,Laminados a Frio,199.258
+1T22,Laminados a Frio,216.033563
+2T22,Laminados a Frio,208.503245
+3T22,Laminados a Frio,214.15456
+4T22,Laminados a Frio,184.66689000000002
+1T23,Laminados a Frio,209.512630000001
+2T23,Laminados a Frio,206.68746999999902
+3T23,Laminados a Frio,229.29916200000002
+4T23,Laminados a Frio,205.88904994966876
+1T24,Laminados a Frio,225.22225541260434
+2T24,Laminados a Frio,236.70036821537306
+3T24,Laminados a Frio,273.87302799999907
+4T24,Laminados a Frio,256.12839582793345
+1T25,Laminados a Frio,244.09079783022906
+2T25,Laminados a Frio,238.076699
+3T25,Laminados a Frio,241.28528500000002
+4T25,Laminados a Frio,231.030483
+1T26,Laminados a Frio,228.8020884
+1T17,Galvanizados,200.0
+2T17,Galvanizados,202.0
+3T17,Galvanizados,227.0
+4T17,Galvanizados,247.0
+1T18,Galvanizados,224.0
+2T18,Galvanizados,225.0
+3T18,Galvanizados,275.0
+4T18,Galvanizados,229.0
+1T19,Galvanizados,238.0
+2T19,Galvanizados,250.0
+3T19,Galvanizados,248.0
+4T19,Galvanizados,229.0
+1T20,Galvanizados,272.0
+2T20,Galvanizados,113.0
+3T20,Galvanizados,216.0
+4T20,Galvanizados,270.0
+1T21,Galvanizados,265.0
+2T21,Galvanizados,266.286
+3T21,Galvanizados,261.948
+4T21,Galvanizados,199.893
+1T22,Galvanizados,226.97066999999998
+2T22,Galvanizados,251.26970400000002
+3T22,Galvanizados,219.914212
+4T22,Galvanizados,204.65347500000001
+1T23,Galvanizados,228.474099999999
+2T23,Galvanizados,242.93065399999898
+3T23,Galvanizados,253.09509100000002
+4T23,Galvanizados,233.64233439937937
+1T24,Galvanizados,218.4611491649341
+2T24,Galvanizados,245.17915787486814
+3T24,Galvanizados,279.9062039999999
+4T24,Galvanizados,250.29150800000016
+1T25,Galvanizados,266.3730619655913
+2T25,Galvanizados,257.928384
+3T25,Galvanizados,272.59277399999996
+4T25,Galvanizados,262.755766
+1T26,Galvanizados,268.7131915
+1T17,Placas,20.0
+2T17,Placas,10.0
+3T17,Placas,8.0
+4T17,Placas,7.0
+1T18,Placas,6.0
+2T18,Placas,4.0
+3T18,Placas,6.0
+4T18,Placas,5.0
+1T19,Placas,5.0
+2T19,Placas,12.0
+3T19,Placas,6.0
+4T19,Placas,9.0
+1T20,Placas,12.0
+2T20,Placas,14.0
+3T20,Placas,13.0
+4T20,Placas,13.0
+1T21,Placas,11.0
+2T21,Placas,9.365
+3T21,Placas,5.849
+4T21,Placas,7.704
+1T22,Placas,16.23238
+2T22,Placas,7.149948
+3T22,Placas,9.190557
+4T22,Placas,27.271394
+1T23,Placas,20.360465
+2T23,Placas,19.684562000000003
+3T23,Placas,27.365585
+4T23,Placas,9.0
+1T24,Placas,6.691335469134432
+2T24,Placas,6.281471
+3T24,Placas,9.0
+4T24,Placas,10.028521000000005
+1T25,Placas,13.732304999999998
+2T25,Placas,10.418408
+3T25,Placas,11.947338
+4T25,Placas,13.881952
+1T26,Placas,11.045183000000002
+1T17,Chapas Grossas,5.0
+2T17,Chapas Grossas,9.0
+3T17,Chapas Grossas,17.0
+4T17,Chapas Grossas,16.0
+1T18,Chapas Grossas,8.0
+2T18,Chapas Grossas,9.0
+3T18,Chapas Grossas,32.0
+4T18,Chapas Grossas,7.0
+1T19,Chapas Grossas,23.0
+2T19,Chapas Grossas,12.0
+3T19,Chapas Grossas,9.0
+4T19,Chapas Grossas,8.0
+1T20,Chapas Grossas,14.0
+2T20,Chapas Grossas,12.0
+3T20,Chapas Grossas,16.0
+4T20,Chapas Grossas,12.0
+1T21,Chapas Grossas,16.0
+2T21,Chapas Grossas,7.621
+3T21,Chapas Grossas,9.555
+4T21,Chapas Grossas,9.771
+1T22,Chapas Grossas,18.452448
+2T22,Chapas Grossas,12.347427
+3T22,Chapas Grossas,44.7547350000001
+4T22,Chapas Grossas,46.740368000000096
+1T23,Chapas Grossas,23.540376000000002
+2T23,Chapas Grossas,15.391023000000004
+3T23,Chapas Grossas,19.28364
+4T23,Chapas Grossas,50.0
+1T24,Chapas Grossas,6.254188859261018
+2T24,Chapas Grossas,9.614484000000001
+3T24,Chapas Grossas,14.679338
+4T24,Chapas Grossas,39.37717
+1T25,Chapas Grossas,32.621049000000106
+2T25,Chapas Grossas,38.901199999999996
+3T25,Chapas Grossas,23.363034
+4T25,Chapas Grossas,12.657253
+1T26,Chapas Grossas,9.498339
+1T17,Laminados a Quente,10.0
+2T17,Laminados a Quente,16.0
+3T17,Laminados a Quente,20.0
+4T17,Laminados a Quente,10.0
+1T18,Laminados a Quente,34.0
+2T18,Laminados a Quente,17.0
+3T18,Laminados a Quente,23.0
+4T18,Laminados a Quente,13.0
+1T19,Laminados a Quente,8.0
+2T19,Laminados a Quente,10.0
+3T19,Laminados a Quente,14.0
+4T19,Laminados a Quente,11.0
+1T20,Laminados a Quente,13.0
+2T20,Laminados a Quente,14.0
+3T20,Laminados a Quente,18.0
+4T20,Laminados a Quente,3.0
+1T21,Laminados a Quente,4.0
+2T21,Laminados a Quente,1.418
+3T21,Laminados a Quente,15.452
+4T21,Laminados a Quente,73.246
+1T22,Laminados a Quente,91.192017
+2T22,Laminados a Quente,48.993935
+3T22,Laminados a Quente,5.570674
+4T22,Laminados a Quente,3.939117
+1T23,Laminados a Quente,26.808397
+2T23,Laminados a Quente,6.481824000000017
+3T23,Laminados a Quente,3.850774
+4T23,Laminados a Quente,15.0
+1T24,Laminados a Quente,22.984714115225003
+2T24,Laminados a Quente,10.995531000000001
+3T24,Laminados a Quente,1.894808
+4T24,Laminados a Quente,29.59042
+1T25,Laminados a Quente,7.873598000000001
+2T25,Laminados a Quente,12.353702
+3T25,Laminados a Quente,5.862488
+4T25,Laminados a Quente,45.756389999999996
+1T26,Laminados a Quente,3.264421
+1T17,Laminados a Frio,54.0
+2T17,Laminados a Frio,70.0
+3T17,Laminados a Frio,59.0
+4T17,Laminados a Frio,135.0
+1T18,Laminados a Frio,85.0
+2T18,Laminados a Frio,89.0
+3T18,Laminados a Frio,33.0
+4T18,Laminados a Frio,58.0
+1T19,Laminados a Frio,56.0
+2T19,Laminados a Frio,60.0
+3T19,Laminados a Frio,18.0
+4T19,Laminados a Frio,23.0
+1T20,Laminados a Frio,79.0
+2T20,Laminados a Frio,24.0
+3T20,Laminados a Frio,29.0
+4T20,Laminados a Frio,8.0
+1T21,Laminados a Frio,38.0
+2T21,Laminados a Frio,16.409
+3T21,Laminados a Frio,40.282
+4T21,Laminados a Frio,93.956
+1T22,Laminados a Frio,65.303
+2T22,Laminados a Frio,46.63026
+3T22,Laminados a Frio,17.81936
+4T22,Laminados a Frio,13.47068
+1T23,Laminados a Frio,7.66231999999999
+2T23,Laminados a Frio,12.250670000000014
+3T23,Laminados a Frio,11.98668
+4T23,Laminados a Frio,20.0
+1T24,Laminados a Frio,45.721825752042314
+2T24,Laminados a Frio,10.394515
+3T24,Laminados a Frio,12.578226
+4T24,Laminados a Frio,12.27007
+1T25,Laminados a Frio,18.170363000000002
+2T25,Laminados a Frio,26.830887999999998
+3T25,Laminados a Frio,54.121187
+4T25,Laminados a Frio,38.720784
+1T26,Laminados a Frio,30.591630000000002
+1T17,Galvanizados,32.0
+2T17,Galvanizados,55.0
+3T17,Galvanizados,36.0
+4T17,Galvanizados,29.0
+1T18,Galvanizados,36.0
+2T18,Galvanizados,28.0
+3T18,Galvanizados,27.0
+4T18,Galvanizados,42.0
+1T19,Galvanizados,31.0
+2T19,Galvanizados,19.0
+3T19,Galvanizados,34.0
+4T19,Galvanizados,57.0
+1T20,Galvanizados,28.0
+2T20,Galvanizados,41.0
+3T20,Galvanizados,68.0
+4T20,Galvanizados,18.0
+1T21,Galvanizados,30.0
+2T21,Galvanizados,36.501
+3T21,Galvanizados,36.088
+4T21,Galvanizados,63.08
+1T22,Galvanizados,92.18800999999999
+2T22,Galvanizados,32.576861
+3T22,Galvanizados,40.759800000000006
+4T22,Galvanizados,27.61401
+1T23,Galvanizados,26.73962
+2T23,Galvanizados,35.571590000000015
+3T23,Galvanizados,34.4476
+4T23,Galvanizados,36.0
+1T24,Galvanizados,41.98837974260602
+2T24,Galvanizados,37.16474899999999
+3T24,Galvanizados,26.886684000000002
+4T24,Galvanizados,14.85224
+1T25,Galvanizados,32.624133
+2T25,Galvanizados,28.033475
+3T25,Galvanizados,28.968931
+4T25,Galvanizados,24.846321
+1T26,Galvanizados,25.559564
+1T17,Placas,3.0
+2T17,Placas,0.0
+3T17,Placas,3.0
+4T17,Placas,5.0
+1T18,Placas,7.0
+2T18,Placas,0.0
+3T18,Placas,0.0
+4T18,Placas,0.0
+1T19,Placas,0.0
+2T19,Placas,8.0
+3T19,Placas,13.0
+4T19,Placas,7.0
+1T20,Placas,12.0
+2T20,Placas,11.0
+3T20,Placas,3.0
+4T20,Placas,0.0
+2T21,Placas,3.177
+3T21,Placas,2.638
+4T21,Placas,32.372
+1T22,Placas,0.312971
+2T22,Placas,0.0
+3T22,Placas,0.0
+4T22,Placas,0.0
+1T23,Placas,16.234625
+2T23,Placas,0.0
+3T23,Placas,20.004116999999997
+4T23,Placas,0.0
+1T24,Placas,0.10252453086556833
+2T24,Placas,0.0
+3T24,Placas,0.0
+4T24,Placas,0.0
+1T25,Placas,0.0
+2T25,Placas,0.0
+3T25,Placas,0.07504300000000001
+4T25,Placas,0.0
+1T26,Placas,0.0

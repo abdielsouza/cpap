@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: usiminas-analysis
+Version: 0.1.0
+Summary: Projeto de análise de dados da Usiminas a partir da base trimestral 2T26
+Requires-Python: >=3.10
+Requires-Dist: pandas>=2.2
+Requires-Dist: numpy>=2.0
+Requires-Dist: openpyxl>=3.1
+Requires-Dist: matplotlib>=3.9
+Requires-Dist: streamlit>=1.40
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
